@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schedule generated="2016-03-19T21:18:28Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-schedule.xsd">
+  <matches>
+    <match id="503d2816-ebdb-405c-b1a3-6af36c3ac7fc" status="closed" scheduled="2016-03-19T11:30:00Z" scratched="false" season_id="84d5445e-8dfd-437e-a798-a3c5024940a7">
+      <category id="9637e80b-096a-45bf-b4fa-59da8d456467" name="Turkey" country_code="TUR" country="Turkey"/>
+      <tournament_group id="fa9452f9-2b46-4975-8078-949418776dc9" name="Super Lig" season_start="2015-08-13T22:00:00Z" season_end="2016-05-23T21:59:00Z" season="2015"/>
+      <tournament id="076c36b5-1ebd-48c3-a14b-c3e26c4198c8" name="Super Lig" season_id="84d5445e-8dfd-437e-a798-a3c5024940a7" season_start="2015-08-13T22:00:00Z" season_end="2016-05-23T21:59:00Z" season="2015" type="group"/>
+      <home id="425b0e51-96d7-4c3e-b505-8a6e3caac335" name="Osmanlispor" alias="OSM" country_code="TUR" country="Turkey" type="team"/>
+      <away id="050ef57c-1774-4f60-8b7a-0d7aa93afd6f" name="Genclerbirligi" alias="GEN" country_code="TUR" country="Turkey" type="team"/>
+      <venue id="dbb1d4ea-fed9-4c50-a5a2-383aa2f5d5f1" name="Osmanli Stadi" country_code="TUR" country="Turkey" city="Sincan" capacity="19626" coordinates="40.011389,32.502222"/>
+      <round type="table" number="26" week="11"/>
+      <!-- 7588678/3057/7802 -->
+    </match>
+    <match id="cb87dfa3-b023-4640-af77-c7c21355355a" status="closed" scheduled="2016-03-19T11:30:00Z" scratched="false" season_id="1bda05c0-cd0f-4219-b7aa-49dd348cc582">
+      <category id="37ac0ccc-6dcc-4783-b5c5-0dd7e2b2e673" name="Russia" country_code="RUS" country="Russian Federation"/>
+      <tournament_group id="78c55c5a-0985-4c71-a52c-b047e535537c" name="Premier League" season_start="2015-07-15T22:00:00Z" season_end="2016-06-06T21:59:00Z" season="2015"/>
+      <tournament id="c2f5fb83-e6b9-4bee-a9c8-0aebbc41c351" name="Premier League" season_id="1bda05c0-cd0f-4219-b7aa-49dd348cc582" season_start="2015-07-15T22:00:00Z" season_end="2016-06-06T21:59:00Z" season="2015" type="group"/>
+      <home id="2cfa0856-eaf8-432a-b4ce-0970c929a135" name="FC Ufa" alias="UFA" country_code="RUS" country="Russian Federation" type="team"/>
+      <away id="9586aeb4-0dd0-4cf1-aecb-a5e232381a10" name="Dinamo Moscow" alias="DMO" country_code="RUS" country="Russian Federation" type="team"/>
+      <venue id="b2738ecf-ec83-4236-8150-88af64ce724a" name="Neftyanik Stadium" country_code="RUS" country="Russian Federation" city="Ufa" capacity="15200"/>
+      <round type="table" number="21" week="11"/>
+      <!-- 7507572/74241/2315 -->
+    </match>
+    <match id="a5374302-ea3e-43d8-9e48-5e8949920069" status="closed" scheduled="2016-03-19T12:00:00Z" scratched="false" season_id="6818e37c-55ea-401d-83d8-07cd2899b8ee">
+      <category id="d1a50060-2ceb-45b6-ae08-b3a1ca38da86" name="Ukraine" country_code="UKR" country="Ukraine"/>
+      <tournament_group id="1a5bfc9a-57ed-49a6-9a9f-ac1e9f3fcc09" name="Premier League" season_start="2015-07-16T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015"/>
+      <tournament id="417d7be0-3b5b-4573-9b72-e8c037093f6a" name="Premier League" season_id="6818e37c-55ea-401d-83d8-07cd2899b8ee" season_start="2015-07-16T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015" type="group"/>
+      <home id="ecd4c7bf-2c7e-40a1-9dde-d4fa195b6485" name="Chernomorets" alias="CHE" country_code="UKR" country="Ukraine" type="team"/>
+      <away id="a67531cc-1133-42b7-92af-6b14d9352ad0" name="Oleksandria" alias="OLE" country_code="UKR" country="Ukraine" type="team"/>
+      <venue id="6ecc74a9-f44f-4b48-ab12-69013bd16bd2" name="Chornomorets Stadium" country_code="UKR" country="Ukraine" city="Odessa" capacity="34164" coordinates="46.480556,30.755556"/>
+      <round type="table" number="19" week="11"/>
+      <!-- 7478662/3310/25479 -->
+    </match>
+    <match id="295d1895-e2f0-4e77-abdc-171328c0d631" status="closed" scheduled="2016-03-19T12:30:00Z" scratched="false" season_id="1f943759-d809-4207-bc97-f283fc64a1dd">
+      <category id="d7571312-0622-4ed6-a787-b5890fe3d749" name="Scotland" country_code="SCT" country="Scotland"/>
+      <tournament_group id="33187685-ec55-4985-9a4b-3843320d2a19" name="Premiership" season_start="2015-07-31T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015"/>
+      <tournament id="a0492d3b-678e-42f8-b192-e59e2447a950" name="Premiership" season_id="1f943759-d809-4207-bc97-f283fc64a1dd" season_start="2015-07-31T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015" type="group"/>
+      <home id="743ece69-de67-496c-b363-72644b04a1d3" name="Kilmarnock" alias="KIL" country_code="SCT" country="Scotland" type="team"/>
+      <away id="9e8caef7-0177-4cd5-a877-449ff7fd1ad1" name="Celtic" alias="CEL" country_code="SCT" country="Scotland" type="team"/>
+      <venue id="b62f8838-5076-4a11-b0ee-520781fa1421" name="Rugby Park" country_code="SCO" country="Scotland" city="Kilmarnock" capacity="18128" coordinates="55.604225,-4.508122"/>
+      <round type="table" number="31" week="11"/>
+      <!-- 7480036/2347/2352 -->
+    </match>
+    <match id="37b73007-699c-4e27-9d9d-39552203cd5c" status="closed" scheduled="2016-03-19T12:30:00Z" scratched="false" season_id="20042787-7b62-43ce-86ca-0b40fbc5318a">
+      <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+      <tournament_group id="86eacef9-75ae-4c3e-b308-db5190e25dc0" name="Championship" season_start="2015-08-06T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015"/>
+      <tournament id="1b997dd2-b27e-41eb-ac4d-2a17d021d3a4" name="Championship" season_id="20042787-7b62-43ce-86ca-0b40fbc5318a" season_start="2015-08-06T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015" type="group"/>
+      <home id="0080da28-0f0f-401a-9386-836db8361028" name="Derby" alias="DER" country_code="ENG" country="England" type="team"/>
+      <away id="083aa564-1ff0-4475-8d7f-2e96348893e8" name="Nottingham Forest" alias="NOF" country_code="ENG" country="England" type="team"/>
+      <venue id="eed5e3d1-80bb-4711-a014-85821265f1a5" name="Pride Park Stadium" country_code="ENG" country="England" city="Derby" capacity="33597" coordinates="52.915000,-1.447222"/>
+      <round type="table" number="38" week="11"/>
+      <!-- 7466738/27/14 -->
+    </match>
+    <match id="1d6a4beb-4472-42df-a6cc-72af2743d5f8" status="closed" scheduled="2016-03-19T12:45:00Z" scratched="false" season_id="5027923a-4641-4c6d-964b-22d605b16c0f">
+      <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+      <tournament_group id="fdc32c0e-2a6a-4bbe-b855-41fef6369bfe" name="Premier League" season_start="2015-08-07T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015"/>
+      <tournament id="d8ddadd3-9a93-46bc-82b2-bc88c08b7255" name="Premier League" season_id="5027923a-4641-4c6d-964b-22d605b16c0f" season_start="2015-08-07T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015" type="group"/>
+      <home id="04e7324b-7946-4863-891a-606e64eafdf0" name="Everton" alias="EVE" country_code="ENG" country="England" type="team"/>
+      <away id="0b97014f-1a82-46d5-bfbf-89857ef8f44a" name="Arsenal" alias="ARS" country_code="ENG" country="England" type="team"/>
+      <venue id="efffb19b-3966-4b48-9ce0-965937a10c5c" name="Goodison Park" country_code="ENG" country="England" city="Liverpool" capacity="39571" coordinates="53.439255,-2.967065"/>
+      <round type="table" number="31" week="11"/>
+      <!-- 7465054/48/42 -->
+    </match>
+    <match id="2fd88f12-e05b-48bf-9ab6-559736436259" status="closed" scheduled="2016-03-19T13:00:00Z" scratched="false" season_id="8441da0c-cfdc-45f4-ac60-160d02c04570">
+      <category id="6c960722-2eca-41ef-ae5d-41464d26f99a" name="Greece" country_code="GRC" country="Greece"/>
+      <tournament_group id="3f8e0d22-25a0-4180-82e0-4a10a941b5b7" name="Super League" season_start="2013-08-16T22:00:00Z" season_end="2016-05-02T21:59:00Z" season="2013"/>
+      <tournament id="9b6063ec-74a2-444a-aee9-101b0da08b9b" name="Super League" season_id="8441da0c-cfdc-45f4-ac60-160d02c04570" season_start="2015-08-20T22:00:00Z" season_end="2016-05-02T21:59:00Z" season="2015" type="group"/>
+      <home id="650fe029-ad7f-48b3-ab13-91fd4c420f98" name="Xanthi Skoda" alias="XAN" country_code="GRC" country="Greece" type="team"/>
+      <away id="7c890e8c-00f7-49d8-88e1-08c849c1da3d" name="Levadiakos" alias="LEV" country_code="GRC" country="Greece" type="team"/>
+      <venue id="e3448434-e28b-445d-b6cf-421fef7116cd" name="Pigadeia-Skoda Xanthi Arena" country_code="GRC" country="Greece" city="Xanthi" capacity="7422" coordinates="41.121344,24.949372"/>
+      <round type="table" number="27" week="11"/>
+      <!-- 8044474/3254/5063 -->
+    </match>
+    <match id="147a3b35-b9e6-4ae1-8246-762af982635a" status="closed" scheduled="2016-03-19T14:00:00Z" scratched="false" season_id="1bda05c0-cd0f-4219-b7aa-49dd348cc582">
+      <category id="37ac0ccc-6dcc-4783-b5c5-0dd7e2b2e673" name="Russia" country_code="RUS" country="Russian Federation"/>
+      <tournament_group id="78c55c5a-0985-4c71-a52c-b047e535537c" name="Premier League" season_start="2015-07-15T22:00:00Z" season_end="2016-06-06T21:59:00Z" season="2015"/>
+      <tournament id="c2f5fb83-e6b9-4bee-a9c8-0aebbc41c351" name="Premier League" season_id="1bda05c0-cd0f-4219-b7aa-49dd348cc582" season_start="2015-07-15T22:00:00Z" season_end="2016-06-06T21:59:00Z" season="2015" type="group"/>
+      <home id="61168601-3f26-4b9c-b75e-25c6002e6a02" name="Terek Grozny" alias="TER" country_code="RUS" country="Russian Federation" type="team"/>
+      <away id="d4c423d7-f395-4d4b-bcd1-463b04758348" name="Ural Yekaterinburg" alias="URA" country_code="RUS" country="Russian Federation" type="team"/>
+      <venue id="91540492-23b2-439e-bf65-baca1f6d542b" name="Akhmat-Arena" country_code="RUS" country="Russian Federation" city="Grozny" capacity="30597" coordinates="43.323176,45.745252"/>
+      <round type="table" number="21" week="11"/>
+      <!-- 7507574/5131/7529 -->
+    </match>
+    <match id="66307bed-e30a-4ee6-8d49-17b6d34d81a4" status="closed" scheduled="2016-03-19T14:00:00Z" scratched="false" season_id="84d5445e-8dfd-437e-a798-a3c5024940a7">
+      <category id="9637e80b-096a-45bf-b4fa-59da8d456467" name="Turkey" country_code="TUR" country="Turkey"/>
+      <tournament_group id="fa9452f9-2b46-4975-8078-949418776dc9" name="Super Lig" season_start="2015-08-13T22:00:00Z" season_end="2016-05-23T21:59:00Z" season="2015"/>
+      <tournament id="076c36b5-1ebd-48c3-a14b-c3e26c4198c8" name="Super Lig" season_id="84d5445e-8dfd-437e-a798-a3c5024940a7" season_start="2015-08-13T22:00:00Z" season_end="2016-05-23T21:59:00Z" season="2015" type="group"/>
+      <home id="cee34087-7563-4a52-bebe-85fadb16b9c1" name="Trabzonspor" alias="TRA" country_code="TUR" country="Turkey" type="team"/>
+      <away id="4ad195f2-ee53-4365-b64a-d2e78ebb2892" name="Sivasspor" alias="SIV" country_code="TUR" country="Turkey" type="team"/>
+      <venue id="45374942-d8ae-45e6-b3a2-c304e354ec31" name="Hüseyin Avni Aker Stadium" country_code="TUR" country="Turkey" city="Trabzon" capacity="22169" coordinates="41.003887,39.705276"/>
+      <round type="table" number="26" week="11"/>
+      <!-- 7588686/3051/3076 -->
+    </match>
+    <match id="909bf317-b864-4d21-b868-92227738a7a7" status="closed" scheduled="2016-03-19T14:30:00Z" scratched="false" season_id="63fb4b05-0471-4e4f-bdef-3bfbabf0b101">
+      <category id="74a09b78-1ad8-467b-a401-888284c3c2a5" name="Poland" country_code="POL" country="Poland"/>
+      <tournament_group id="e30f6d53-5546-4a67-9097-514843d9d8e2" name="Ekstraklasa" season_start="2015-07-16T22:00:00Z" season_end="2016-06-06T21:59:00Z" season="2015"/>
+      <tournament id="a6b762ab-9a42-4be4-b711-83a3d6745992" name="Ekstraklasa" season_id="63fb4b05-0471-4e4f-bdef-3bfbabf0b101" season_start="2015-07-16T22:00:00Z" season_end="2016-06-06T21:59:00Z" season="2015" type="group"/>
+      <home id="46a2c447-4c88-4246-9ac2-94a1155088bc" name="TS Podbeskidzie" alias="POD" country_code="POL" country="Poland" type="team"/>
+      <away id="f3d5311a-bc39-4a6e-963e-a213296a8b7e" name="Gornik Zabrze" alias="GOR" country_code="POL" country="Poland" type="team"/>
+      <venue id="531b11c5-ec70-47dc-9c4c-bd26a39f8629" name="Stadium Miejski w Bielsko Biala" country_code="POL" country="Poland" city="Bielsko Biala" capacity="4279" coordinates="49.817423,19.054257"/>
+      <round type="table" number="28" week="11"/>
+      <!-- 7470652/7919/3110 -->
+    </match>
+    <match id="d2db4b2c-d9f1-475e-a23c-cebe365e5af3" status="closed" scheduled="2016-03-19T14:30:00Z" scratched="false" season_id="659f0f2a-8859-4160-9208-c674152dd059">
+      <category id="7ba3e936-0d68-46b5-99eb-d0c98e021e91" name="Germany" country_code="DEU" country="Germany"/>
+      <tournament_group id="d8901247-b449-4b53-be9d-6acde655cc44" name="Bundesliga" season_start="2015-08-13T22:00:00Z" season_end="2016-05-25T21:59:00Z" season="2015"/>
+      <tournament id="2b2304d2-9628-4679-ab3c-c47c3af23560" name="Bundesliga" season_id="659f0f2a-8859-4160-9208-c674152dd059" season_start="2015-08-13T22:00:00Z" season_end="2016-05-25T21:59:00Z" season="2015" type="group"/>
+      <home id="4819069a-cf3a-46a6-84dd-b0e8dccc429c" name="Wolfsburg" alias="WOL" country_code="DEU" country="Germany" type="team"/>
+      <away id="f550f323-e95b-4135-b768-ed43278ab779" name="Darmstadt" alias="D98" country_code="DEU" country="Germany" type="team"/>
+      <venue id="70fca2a4-5262-442f-9542-9aec0ff15196" name="Volkswagen Arena" country_code="DEU" country="Germany" city="Wolfsburg" capacity="30000" coordinates="52.431561,10.803541"/>
+      <round type="table" number="27" week="11"/>
+      <!-- 7518280/2524/2576 -->
+    </match>
+    <match id="2a867dcc-8f1d-4cfc-8bfd-1e52209c9b78" status="closed" scheduled="2016-03-19T14:30:00Z" scratched="false" season_id="659f0f2a-8859-4160-9208-c674152dd059">
+      <category id="7ba3e936-0d68-46b5-99eb-d0c98e021e91" name="Germany" country_code="DEU" country="Germany"/>
+      <tournament_group id="d8901247-b449-4b53-be9d-6acde655cc44" name="Bundesliga" season_start="2015-08-13T22:00:00Z" season_end="2016-05-25T21:59:00Z" season="2015"/>
+      <tournament id="2b2304d2-9628-4679-ab3c-c47c3af23560" name="Bundesliga" season_id="659f0f2a-8859-4160-9208-c674152dd059" season_start="2015-08-13T22:00:00Z" season_end="2016-05-25T21:59:00Z" season="2015" type="group"/>
+      <home id="ba32d47f-aed1-4fdd-b0c5-95b672bab1fe" name="Cologne" alias="COL" country_code="DEU" country="Germany" type="team"/>
+      <away id="b8c6dc82-0d24-4758-9a85-6586931cfeba" name="B. Munich" alias="FCB" country_code="DEU" country="Germany" type="team"/>
+      <venue id="3d4e5248-64c3-4378-bba6-6b2580343d7f" name="RheinEnergieStadion" country_code="DEU" country="Germany" city="Cologne" capacity="50000" coordinates="50.933445,6.876095"/>
+      <round type="table" number="27" week="11"/>
+      <!-- 7518292/2671/2672 -->
+    </match>
+    <match id="5b0b6fd9-a196-4fb1-a84d-e403f3487da1" status="closed" scheduled="2016-03-19T14:30:00Z" scratched="false" season_id="659f0f2a-8859-4160-9208-c674152dd059">
+      <category id="7ba3e936-0d68-46b5-99eb-d0c98e021e91" name="Germany" country_code="DEU" country="Germany"/>
+      <tournament_group id="d8901247-b449-4b53-be9d-6acde655cc44" name="Bundesliga" season_start="2015-08-13T22:00:00Z" season_end="2016-05-25T21:59:00Z" season="2015"/>
+      <tournament id="2b2304d2-9628-4679-ab3c-c47c3af23560" name="Bundesliga" season_id="659f0f2a-8859-4160-9208-c674152dd059" season_start="2015-08-13T22:00:00Z" season_end="2016-05-25T21:59:00Z" season="2015" type="group"/>
+      <home id="2b9f012a-9e99-4507-b769-d4272d844eb0" name="Hertha" alias="HER" country_code="DEU" country="Germany" type="team"/>
+      <away id="155c6291-8146-4bb5-a895-5873071d6dc4" name="Ingolstadt" alias="ING" country_code="DEU" country="Germany" type="team"/>
+      <venue id="d8d4ecbd-c789-4b42-956d-12540f710b00" name="Olympiastadion" country_code="DEU" country="Germany" city="Berlin" capacity="74244" coordinates="52.514477,13.239358"/>
+      <round type="table" number="27" week="11"/>
+      <!-- 7518294/2528/5880 -->
+    </match>
+    <match id="8098518c-36b6-41db-b7b1-c4fcf7ffb027" status="closed" scheduled="2016-03-19T14:30:00Z" scratched="false" season_id="659f0f2a-8859-4160-9208-c674152dd059">
+      <category id="7ba3e936-0d68-46b5-99eb-d0c98e021e91" name="Germany" country_code="DEU" country="Germany"/>
+      <tournament_group id="d8901247-b449-4b53-be9d-6acde655cc44" name="Bundesliga" season_start="2015-08-13T22:00:00Z" season_end="2016-05-25T21:59:00Z" season="2015"/>
+      <tournament id="2b2304d2-9628-4679-ab3c-c47c3af23560" name="Bundesliga" season_id="659f0f2a-8859-4160-9208-c674152dd059" season_start="2015-08-13T22:00:00Z" season_end="2016-05-25T21:59:00Z" season="2015" type="group"/>
+      <home id="7259fcc8-1cd9-46b9-bdb1-511879d82250" name="Hamburg" alias="HSV" country_code="DEU" country="Germany" type="team"/>
+      <away id="2ab08075-c69e-4264-8122-7aefa07cf1fb" name="Hoffenheim" alias="HOF" country_code="DEU" country="Germany" type="team"/>
+      <venue id="84931fdf-51c1-4199-8746-219b3ecf207e" name="Volksparkstadion" country_code="DEU" country="Germany" city="Hamburg" capacity="57000" coordinates="53.587357,9.899214"/>
+      <round type="table" number="27" week="11"/>
+      <!-- 7518282/2676/2569 -->
+    </match>
+    <match id="cc22e670-dfac-4357-be83-f9b4345d3af2" status="closed" scheduled="2016-03-19T14:30:00Z" scratched="false" season_id="659f0f2a-8859-4160-9208-c674152dd059">
+      <category id="7ba3e936-0d68-46b5-99eb-d0c98e021e91" name="Germany" country_code="DEU" country="Germany"/>
+      <tournament_group id="d8901247-b449-4b53-be9d-6acde655cc44" name="Bundesliga" season_start="2015-08-13T22:00:00Z" season_end="2016-05-25T21:59:00Z" season="2015"/>
+      <tournament id="2b2304d2-9628-4679-ab3c-c47c3af23560" name="Bundesliga" season_id="659f0f2a-8859-4160-9208-c674152dd059" season_start="2015-08-13T22:00:00Z" season_end="2016-05-25T21:59:00Z" season="2015" type="group"/>
+      <home id="aa10536c-e745-4a0a-8eb7-71cb3d2aa968" name="Bremen" alias="SVW" country_code="DEU" country="Germany" type="team"/>
+      <away id="f74755fd-a61b-4007-bdd8-13345e77acb0" name="Mainz 05" alias="MAI" country_code="DEU" country="Germany" type="team"/>
+      <venue id="1e3f714e-3c5f-4029-a629-8e5654e99666" name="Weserstadion" country_code="DEU" country="Germany" city="Bremen" capacity="42100" coordinates="53.066394,8.837628"/>
+      <round type="table" number="27" week="11"/>
+      <!-- 7518288/2534/2556 -->
+    </match>
+    <match id="a8ed6685-7637-446a-a8d4-40c7b92ea57b" status="closed" scheduled="2016-03-19T15:00:00Z" scratched="false" season_id="20042787-7b62-43ce-86ca-0b40fbc5318a">
+      <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+      <tournament_group id="86eacef9-75ae-4c3e-b308-db5190e25dc0" name="Championship" season_start="2015-08-06T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015"/>
+      <tournament id="1b997dd2-b27e-41eb-ac4d-2a17d021d3a4" name="Championship" season_id="20042787-7b62-43ce-86ca-0b40fbc5318a" season_start="2015-08-06T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015" type="group"/>
+      <home id="c25c7d44-fac1-44be-bc69-f3c8a3506815" name="Leeds" alias="LEE" country_code="ENG" country="England" type="team"/>
+      <away id="7c95c816-d7d6-43da-947b-a724826c86e3" name="Huddersfield" alias="HUD" country_code="ENG" country="England" type="team"/>
+      <venue id="4f5c27e8-c746-42a2-8822-82a5a4142c49" name="Elland Road" country_code="ENG" country="England" city="Leeds" capacity="39460" coordinates="53.777778,-1.572222"/>
+      <round type="table" number="38" week="11"/>
+      <!-- 7466742/34/59 -->
+    </match>
+    <match id="c08d7301-11ea-4f98-9d5a-7cea47eeb773" status="closed" scheduled="2016-03-19T15:00:00Z" scratched="false" season_id="6818e37c-55ea-401d-83d8-07cd2899b8ee">
+      <category id="d1a50060-2ceb-45b6-ae08-b3a1ca38da86" name="Ukraine" country_code="UKR" country="Ukraine"/>
+      <tournament_group id="1a5bfc9a-57ed-49a6-9a9f-ac1e9f3fcc09" name="Premier League" season_start="2015-07-16T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015"/>
+      <tournament id="417d7be0-3b5b-4573-9b72-e8c037093f6a" name="Premier League" season_id="6818e37c-55ea-401d-83d8-07cd2899b8ee" season_start="2015-07-16T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015" type="group"/>
+      <home id="bdee6668-e1d4-4e8e-b392-800adc21fd0f" name="Dneprodzerzhinsk" alias="DNE" country_code="UKR" country="Ukraine" type="team"/>
+      <away id="20565616-f0c6-4560-a28f-bedeea31e476" name="Goverla" alias="UZG" country_code="UKR" country="Ukraine" type="team"/>
+      <venue id="cc82278f-2f16-41db-a0ba-28925fe55e8f" name="Meteor Stadium" country_code="UKR" country="Ukraine" city="Dnipropetrovsk" capacity="24381"/>
+      <round type="table" number="19" week="11"/>
+      <!-- 7622294/35312/7635 -->
+    </match>
+    <match id="415a8e64-3219-4632-bc80-65c0ee516d7c" status="closed" scheduled="2016-03-19T15:00:00Z" scratched="false" season_id="20042787-7b62-43ce-86ca-0b40fbc5318a">
+      <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+      <tournament_group id="86eacef9-75ae-4c3e-b308-db5190e25dc0" name="Championship" season_start="2015-08-06T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015"/>
+      <tournament id="1b997dd2-b27e-41eb-ac4d-2a17d021d3a4" name="Championship" season_id="20042787-7b62-43ce-86ca-0b40fbc5318a" season_start="2015-08-06T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015" type="group"/>
+      <home id="d8fb5cfd-a7d4-4fcb-81f8-e5e136eb4aea" name="Brentford" alias="BFC" country_code="ENG" country="England" type="team"/>
+      <away id="c939835d-b7c3-4b27-9a03-d54d1b1bcf28" name="Blackburn" alias="BLA" country_code="ENG" country="England" type="team"/>
+      <venue id="dc3fecd7-a5c2-495a-a7cc-b1e8acf22ba7" name="Griffin Park" country_code="ENG" country="England" city="London" capacity="12763" coordinates="51.488183,-0.302639"/>
+      <round type="table" number="38" week="11"/>
+      <!-- 7466650/50/46 -->
+    </match>
+    <match id="bca4bda2-ee37-4803-aee9-c5be635fbfe1" status="closed" scheduled="2016-03-19T15:00:00Z" scratched="false" season_id="20042787-7b62-43ce-86ca-0b40fbc5318a">
+      <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+      <tournament_group id="86eacef9-75ae-4c3e-b308-db5190e25dc0" name="Championship" season_start="2015-08-06T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015"/>
+      <tournament id="1b997dd2-b27e-41eb-ac4d-2a17d021d3a4" name="Championship" season_id="20042787-7b62-43ce-86ca-0b40fbc5318a" season_start="2015-08-06T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015" type="group"/>
+      <home id="c0d31ca5-1378-4419-8261-18860645ec21" name="Preston" alias="PRE" country_code="ENG" country="England" type="team"/>
+      <away id="65da41c2-5231-42a1-acb9-7fe295b12fc7" name="QPR" alias="QPR" country_code="ENG" country="England" type="team"/>
+      <venue id="1057e84e-1879-4a93-8292-6a4936644384" name="Deepdale" country_code="ENG" country="England" city="Preston" capacity="23408" coordinates="53.772222,-2.688056"/>
+      <round type="table" number="38" week="11"/>
+      <!-- 7466748/21/1 -->
+    </match>
+    <match id="34e0c555-866f-4bbf-adac-0596a4bad6e9" status="closed" scheduled="2016-03-19T15:00:00Z" scratched="false" season_id="1f943759-d809-4207-bc97-f283fc64a1dd">
+      <category id="d7571312-0622-4ed6-a787-b5890fe3d749" name="Scotland" country_code="SCT" country="Scotland"/>
+      <tournament_group id="33187685-ec55-4985-9a4b-3843320d2a19" name="Premiership" season_start="2015-07-31T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015"/>
+      <tournament id="a0492d3b-678e-42f8-b192-e59e2447a950" name="Premiership" season_id="1f943759-d809-4207-bc97-f283fc64a1dd" season_start="2015-07-31T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015" type="group"/>
+      <home id="19221ec2-5426-4312-a8ec-d7989a358558" name="Hamilton" alias="HAM" country_code="SCT" country="Scotland" type="team"/>
+      <away id="0cff2fcb-0337-4cdb-9895-37388b3e0b8e" name="Partick Thistle" alias="PAR" country_code="SCT" country="Scotland" type="team"/>
+      <venue id="54bf83f3-5837-49e4-94a7-a2e395d2edff" name="New Douglas Park" country_code="SCO" country="Scotland" city="Hamilton" capacity="6078" coordinates="55.782156,-4.058503"/>
+      <round type="table" number="31" week="11"/>
+      <!-- 7480032/2376/2358 -->
+    </match>
+    <match id="55e56ab7-28d0-4df9-980f-81c578104f14" status="closed" scheduled="2016-03-19T15:00:00Z" scratched="false" season_id="20042787-7b62-43ce-86ca-0b40fbc5318a">
+      <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+      <tournament_group id="86eacef9-75ae-4c3e-b308-db5190e25dc0" name="Championship" season_start="2015-08-06T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015"/>
+      <tournament id="1b997dd2-b27e-41eb-ac4d-2a17d021d3a4" name="Championship" season_id="20042787-7b62-43ce-86ca-0b40fbc5318a" season_start="2015-08-06T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015" type="group"/>
+      <home id="bbfacda4-5370-458b-8a75-1d725d4244eb" name="Birmingham" alias="BIR" country_code="ENG" country="England" type="team"/>
+      <away id="3a14bf84-1f10-4b73-8535-4d54e8a56ae5" name="Fulham" alias="FUL" country_code="ENG" country="England" type="team"/>
+      <venue id="82bd6701-d786-4970-9f6c-c45034b71d2a" name="St. Andrew's Stadium" country_code="ENG" country="England" city="Birmingham" capacity="30009" coordinates="52.475703,-1.868189"/>
+      <round type="table" number="38" week="11"/>
+      <!-- 7466648/9/43 -->
+    </match>
+    <match id="221491c2-d687-4d84-911b-00e9126c6c05" status="closed" scheduled="2016-03-19T15:00:00Z" scratched="false" season_id="b47b47cd-6790-4ea1-ad17-4c92ec956738">
+      <category id="eea96a14-a70c-410a-8950-5cdce820b68d" name="Spain" country_code="ESP" country="Spain"/>
+      <tournament_group id="64e90d00-9ea0-4c91-8292-e78414439d54" name="Primera Division" season_start="2015-07-13T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015"/>
+      <tournament id="004bb0f3-ea53-49e1-a699-5478c252466d" name="Primera Division" season_id="b47b47cd-6790-4ea1-ad17-4c92ec956738" season_start="2015-07-13T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015" type="group"/>
+      <home id="091a53b4-2011-4072-bc53-dad48a59a262" name="Gijon" alias="GIJ" country_code="ESP" country="Spain" type="team"/>
+      <away id="3bb38fcd-0cbd-45f2-a133-0aeaab6657b2" name="At. Madrid" alias="ATM" country_code="ESP" country="Spain" type="team"/>
+      <venue id="d1adc7b9-a240-410e-9802-63bcd51e5532" name="El Molinón" country_code="ESP" country="Spain" city="Gijon" capacity="29600" coordinates="43.536284,-5.637397"/>
+      <round type="table" number="30" week="11"/>
+      <!-- 7610742/2852/2836 -->
+    </match>
+    <match id="ec9bcb98-0742-4c02-b97b-a16da11a48bf" status="closed" scheduled="2016-03-19T15:00:00Z" scratched="false" season_id="20042787-7b62-43ce-86ca-0b40fbc5318a">
+      <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+      <tournament_group id="86eacef9-75ae-4c3e-b308-db5190e25dc0" name="Championship" season_start="2015-08-06T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015"/>
+      <tournament id="1b997dd2-b27e-41eb-ac4d-2a17d021d3a4" name="Championship" season_id="20042787-7b62-43ce-86ca-0b40fbc5318a" season_start="2015-08-06T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015" type="group"/>
+      <home id="82f06e0e-f544-4f1e-80f8-aaee66fc1810" name="Reading" alias="REA" country_code="ENG" country="England" type="team"/>
+      <away id="82b01d14-2043-480f-850c-b3bce83b7246" name="Cardiff" alias="CAR" country_code="ENG" country="England" type="team"/>
+      <venue id="720dce0f-1836-4f7d-afce-78b3da06266b" name="Madejski Stadium" country_code="ENG" country="England" city="Reading" capacity="24161" coordinates="51.422222,-0.982778"/>
+      <round type="table" number="38" week="11"/>
+      <!-- 7466750/28/61 -->
+    </match>
+    <match id="49b4d3d3-ae36-4cc8-b6a0-2a86f4e93b00" status="closed" scheduled="2016-03-19T15:00:00Z" scratched="false" season_id="1f943759-d809-4207-bc97-f283fc64a1dd">
+      <category id="d7571312-0622-4ed6-a787-b5890fe3d749" name="Scotland" country_code="SCT" country="Scotland"/>
+      <tournament_group id="33187685-ec55-4985-9a4b-3843320d2a19" name="Premiership" season_start="2015-07-31T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015"/>
+      <tournament id="a0492d3b-678e-42f8-b192-e59e2447a950" name="Premiership" season_id="1f943759-d809-4207-bc97-f283fc64a1dd" season_start="2015-07-31T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015" type="group"/>
+      <home id="112c8e74-9033-444d-9581-e7f74ddc43e8" name="Hearts" alias="HEA" country_code="SCT" country="Scotland" type="team"/>
+      <away id="d84fd1d6-a8b3-43bc-96ec-ea7de6162cb9" name="Johnstone" alias="JOH" country_code="SCT" country="Scotland" type="team"/>
+      <venue id="e548c680-f9a1-4e50-b3c8-e9f7efe349d0" name="Tynecastle Stadium" country_code="SCO" country="Scotland" city="Edinburgh" capacity="17420" coordinates="55.939167,-3.232222"/>
+      <round type="table" number="31" week="11"/>
+      <!-- 7480034/2353/2348 -->
+    </match>
+    <match id="0733bce6-1047-4f1b-83ba-215a53af56a5" status="closed" scheduled="2016-03-19T15:00:00Z" scratched="false" season_id="decb963b-8d80-4264-b580-d06cdb91d1b1">
+      <category id="44a9cc8d-d1a6-4834-8340-d0ba3ff6a825" name="Denmark" country_code="DNK" country="Denmark"/>
+      <tournament_group id="c563045a-1b31-4208-a1c4-97634a62e036" name="Superligaen" season_start="2015-07-16T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015"/>
+      <tournament id="e1865345-e040-4131-adb8-df8b92ff9df3" name="Superligaen" season_id="decb963b-8d80-4264-b580-d06cdb91d1b1" season_start="2015-07-16T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015" type="group"/>
+      <home id="e299edb1-c46b-4e75-bb82-b5e55a6b7c2b" name="Hobro" alias="HOB" country_code="DNK" country="Denmark" type="team"/>
+      <away id="6dc03d46-0f95-4c60-954e-44c40b0cd567" name="Odense" alias="ODE" country_code="DNK" country="Denmark" type="team"/>
+      <venue id="d10a5407-ed4f-4565-bdc4-127bc7e33aff" name="DS Arena" country_code="DNK" country="Denmark" city="Hobro" capacity="7500" coordinates="56.634967,9.819800"/>
+      <round type="table" number="22" week="11"/>
+      <!-- 7494902/1392/1286 -->
+    </match>
+    <match id="7b9414bf-afc5-43d7-959b-1822dcf676a3" status="closed" scheduled="2016-03-19T15:00:00Z" scratched="false" season_id="20042787-7b62-43ce-86ca-0b40fbc5318a">
+      <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+      <tournament_group id="86eacef9-75ae-4c3e-b308-db5190e25dc0" name="Championship" season_start="2015-08-06T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015"/>
+      <tournament id="1b997dd2-b27e-41eb-ac4d-2a17d021d3a4" name="Championship" season_id="20042787-7b62-43ce-86ca-0b40fbc5318a" season_start="2015-08-06T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015" type="group"/>
+      <home id="2de795ed-1169-44b4-8c67-e6966c188566" name="Sheff Wed" alias="SHW" country_code="ENG" country="England" type="team"/>
+      <away id="051e96c4-6d1d-45e1-896e-1a9856880179" name="Charlton" alias="CHA" country_code="ENG" country="England" type="team"/>
+      <venue id="400f126f-6933-42ff-baee-32f493b54f30" name="Hillsborough Stadium" country_code="ENG" country="England" city="Sheffield" capacity="39812" coordinates="53.411389,-1.500556"/>
+      <round type="table" number="38" week="11"/>
+      <!-- 7466752/12/47 -->
+    </match>
+    <match id="2798e427-cc64-437b-8e43-daaaed34bdd4" status="closed" scheduled="2016-03-19T15:00:00Z" scratched="false" season_id="5027923a-4641-4c6d-964b-22d605b16c0f">
+      <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+      <tournament_group id="fdc32c0e-2a6a-4bbe-b855-41fef6369bfe" name="Premier League" season_start="2015-08-07T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015"/>
+      <tournament id="d8ddadd3-9a93-46bc-82b2-bc88c08b7255" name="Premier League" season_id="5027923a-4641-4c6d-964b-22d605b16c0f" season_start="2015-08-07T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015" type="group"/>
+      <home id="dc6d86cb-1be3-4930-9209-d0a9c1cd25db" name="West Bromwich" alias="WBA" country_code="ENG" country="England" type="team"/>
+      <away id="b61fa01c-1891-49ff-973a-23d4b14fc4fb" name="Norwich" alias="NOR" country_code="ENG" country="England" type="team"/>
+      <venue id="3e3ac7f4-488e-468b-bd55-cd6f62f86987" name="The Hawthorns" country_code="ENG" country="England" city="West Bromwich" capacity="26445" coordinates="52.509068,-1.963892"/>
+      <round type="table" number="31" week="11"/>
+      <!-- 7465068/8/263 -->
+    </match>
+    <match id="5773be52-84c7-42c3-b8c5-59f1f64966fa" status="closed" scheduled="2016-03-19T15:00:00Z" scratched="false" season_id="a38e115b-4b24-44e2-8c28-44185010c349">
+      <category id="32f11468-bf4e-421d-be4d-1b7487cc03d7" name="Austria" country_code="AUT" country="Austria"/>
+      <tournament_group id="d597380f-4fbe-43ad-b47d-d06d07f52dad" name="Bundesliga" season_start="2015-07-23T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015"/>
+      <tournament id="3abcbd00-0b02-4f2f-93ff-b1cb711db389" name="Bundesliga" season_id="a38e115b-4b24-44e2-8c28-44185010c349" season_start="2015-07-23T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015" type="group"/>
+      <home id="098ddff3-c35e-4736-9cdc-6b054984a4a0" name="FK Austria" alias="AUS" country_code="AUT" country="Austria" type="team"/>
+      <away id="d85967ad-67ec-4038-abe7-8ea7639cd8b3" name="Wolfsberger AC" alias="WAC" country_code="AUT" country="Austria" type="team"/>
+      <venue id="5fd5e36d-fc45-4b1f-acb5-9fcf6d5599ba" name="Generali Arena" country_code="AUT" country="Austria" city="Vienna" capacity="12639" coordinates="48.162306,16.386714"/>
+      <round type="table" number="28" week="11"/>
+      <!-- 7479226/2203/2076 -->
+    </match>
+    <match id="fb6c2fc2-ad37-498d-80c6-2d62ad82dffa" status="closed" scheduled="2016-03-19T15:00:00Z" scratched="false" season_id="20042787-7b62-43ce-86ca-0b40fbc5318a">
+      <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+      <tournament_group id="86eacef9-75ae-4c3e-b308-db5190e25dc0" name="Championship" season_start="2015-08-06T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015"/>
+      <tournament id="1b997dd2-b27e-41eb-ac4d-2a17d021d3a4" name="Championship" season_id="20042787-7b62-43ce-86ca-0b40fbc5318a" season_start="2015-08-06T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015" type="group"/>
+      <home id="ed567310-bdd5-4d6b-acdc-c9aabeff6c7a" name="Burnley" alias="BUR" country_code="ENG" country="England" type="team"/>
+      <away id="b1ef96b0-be25-48b6-b6c5-c4d876116110" name="Wolves" alias="WOL" country_code="ENG" country="England" type="team"/>
+      <venue id="32966a26-d35c-4bf3-afdd-fd6605a09849" name="Turf Moor" country_code="ENG" country="England" city="Burnley" capacity="21401" coordinates="53.789167,-2.230278"/>
+      <round type="table" number="38" week="11"/>
+      <!-- 7466656/6/3 -->
+    </match>
+    <match id="aae4ddb7-5fa2-4789-a5b6-6b3df67a5533" status="closed" scheduled="2016-03-19T15:00:00Z" scratched="false" season_id="1f943759-d809-4207-bc97-f283fc64a1dd">
+      <category id="d7571312-0622-4ed6-a787-b5890fe3d749" name="Scotland" country_code="SCT" country="Scotland"/>
+      <tournament_group id="33187685-ec55-4985-9a4b-3843320d2a19" name="Premiership" season_start="2015-07-31T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015"/>
+      <tournament id="a0492d3b-678e-42f8-b192-e59e2447a950" name="Premiership" season_id="1f943759-d809-4207-bc97-f283fc64a1dd" season_start="2015-07-31T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015" type="group"/>
+      <home id="f0ca71ec-d5a9-481f-af87-f7ef05af2d10" name="Ross County" alias="ROS" country_code="SCT" country="Scotland" type="team"/>
+      <away id="f369879b-0b0e-41f6-bf30-c935a56ba201" name="Inverness CT" alias="INV" country_code="SCT" country="Scotland" type="team"/>
+      <venue id="c372ea9b-fa6c-466d-9c89-78ef1835fad4" name="Global Energy Stadium" country_code="SCO" country="Scotland" city="Dingwall" capacity="6541" coordinates="57.595947,-4.418914"/>
+      <round type="table" number="31" week="11"/>
+      <!-- 7480040/2365/2362 -->
+    </match>
+    <match id="8da38a84-2f6b-4c1d-8f7b-63bd51f05b5a" status="closed" scheduled="2016-03-19T15:00:00Z" scratched="false" season_id="20042787-7b62-43ce-86ca-0b40fbc5318a">
+      <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+      <tournament_group id="86eacef9-75ae-4c3e-b308-db5190e25dc0" name="Championship" season_start="2015-08-06T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015"/>
+      <tournament id="1b997dd2-b27e-41eb-ac4d-2a17d021d3a4" name="Championship" season_id="20042787-7b62-43ce-86ca-0b40fbc5318a" season_start="2015-08-06T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015" type="group"/>
+      <home id="6ed34228-1d5e-4ab5-91a7-959bcb4008b9" name="Ipswich" alias="IPS" country_code="ENG" country="England" type="team"/>
+      <away id="d7e75a49-4676-480d-913c-4e1d0cf52c90" name="Rotherham" alias="ROT" country_code="ENG" country="England" type="team"/>
+      <venue id="2d97a042-952f-4240-8936-469e864c1c4f" name="Portman Road Stadium" country_code="ENG" country="England" city="Ipswich" capacity="30311" coordinates="52.055061,1.144831"/>
+      <round type="table" number="38" week="11"/>
+      <!-- 7466740/32/13 -->
+    </match>
+    <match id="3b5f8b7a-2864-4d09-9236-f2f259981a9e" status="closed" scheduled="2016-03-19T15:00:00Z" scratched="false" season_id="5027923a-4641-4c6d-964b-22d605b16c0f">
+      <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+      <tournament_group id="fdc32c0e-2a6a-4bbe-b855-41fef6369bfe" name="Premier League" season_start="2015-08-07T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015"/>
+      <tournament id="d8ddadd3-9a93-46bc-82b2-bc88c08b7255" name="Premier League" season_id="5027923a-4641-4c6d-964b-22d605b16c0f" season_start="2015-08-07T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015" type="group"/>
+      <home id="940a3721-63e7-4446-9614-803725014933" name="Watford" alias="WAT" country_code="ENG" country="England" type="team"/>
+      <away id="f31c42a3-6795-4882-ac06-18b4bfbff1d5" name="Stoke" alias="STO" country_code="ENG" country="England" type="team"/>
+      <venue id="23eba36f-fe3c-4b51-948d-c30d7df1fa06" name="Vicarage Road" country_code="ENG" country="England" city="Watford" capacity="21400" coordinates="51.649836,-0.401486"/>
+      <round type="table" number="31" week="11"/>
+      <!-- 7465066/24/29 -->
+    </match>
+    <match id="b9140c7d-9d7f-499f-834d-e8d20be22588" status="closed" scheduled="2016-03-19T15:00:00Z" scratched="false" season_id="1f943759-d809-4207-bc97-f283fc64a1dd">
+      <category id="d7571312-0622-4ed6-a787-b5890fe3d749" name="Scotland" country_code="SCT" country="Scotland"/>
+      <tournament_group id="33187685-ec55-4985-9a4b-3843320d2a19" name="Premiership" season_start="2015-07-31T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015"/>
+      <tournament id="a0492d3b-678e-42f8-b192-e59e2447a950" name="Premiership" season_id="1f943759-d809-4207-bc97-f283fc64a1dd" season_start="2015-07-31T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015" type="group"/>
+      <home id="e3f1f319-1b2a-4fe3-bcf9-4857fd5a6bde" name="Motherwell" alias="MOT" country_code="SCT" country="Scotland" type="team"/>
+      <away id="c30ce994-1ee8-4371-9551-6c64313e8612" name="Aberdeen" alias="ABE" country_code="SCT" country="Scotland" type="team"/>
+      <venue id="90c26c77-c2b4-44f9-9d62-7a262008000c" name="Fir Park" country_code="SCO" country="Scotland" city="Motherwell" capacity="13677" coordinates="55.779947,-3.980078"/>
+      <round type="table" number="31" week="11"/>
+      <!-- 7480038/2346/2355 -->
+    </match>
+    <match id="9a01bf34-e81f-441e-80fc-463ac0357a91" status="closed" scheduled="2016-03-19T15:00:00Z" scratched="false" season_id="20042787-7b62-43ce-86ca-0b40fbc5318a">
+      <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+      <tournament_group id="86eacef9-75ae-4c3e-b308-db5190e25dc0" name="Championship" season_start="2015-08-06T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015"/>
+      <tournament id="1b997dd2-b27e-41eb-ac4d-2a17d021d3a4" name="Championship" season_id="20042787-7b62-43ce-86ca-0b40fbc5318a" season_start="2015-08-06T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015" type="group"/>
+      <home id="2c669de5-7b24-46f2-8d2b-715784f8ac4d" name="MK Dons" alias="MKD" country_code="ENG" country="England" type="team"/>
+      <away id="360b6613-faeb-4742-9969-795bd8dcf703" name="Brighton" alias="BRI" country_code="ENG" country="England" type="team"/>
+      <venue id="9905076f-cf67-4f08-a7a6-eb9cb387511b" name="stadium MK" country_code="ENG" country="England" city="Milton Keynes" capacity="30717" coordinates="52.009444,-0.733333"/>
+      <round type="table" number="38" week="11"/>
+      <!-- 7466744/4/30 -->
+    </match>
+    <match id="64878df9-c10c-4144-9da9-039b97c77ca4" status="postponed" scheduled="2016-03-19T15:00:00Z" scratched="false" season_id="6818e37c-55ea-401d-83d8-07cd2899b8ee">
+      <category id="d1a50060-2ceb-45b6-ae08-b3a1ca38da86" name="Ukraine" country_code="UKR" country="Ukraine"/>
+      <tournament_group id="1a5bfc9a-57ed-49a6-9a9f-ac1e9f3fcc09" name="Premier League" season_start="2015-07-16T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015"/>
+      <tournament id="417d7be0-3b5b-4573-9b72-e8c037093f6a" name="Premier League" season_id="6818e37c-55ea-401d-83d8-07cd2899b8ee" season_start="2015-07-16T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015" type="group"/>
+      <home id="f6ea5689-e3d7-4f64-895b-cdc8303dc290" name="Metalurg Z." alias="MEZ" country_code="UKR" country="Ukraine" type="team"/>
+      <away id="4de003dc-8627-4ab3-adff-0b05f700e179" name="Shakhtar" alias="SHA" country_code="UKR" country="Ukraine" type="team"/>
+      <venue id="d297f35d-f086-4b33-aa44-062f78604b13" name="Slavutych-Arena" country_code="UKR" country="Ukraine" city="Zaporizhia" capacity="11983" coordinates="47.859627,35.096952"/>
+      <round type="table" number="19" week="11"/>
+      <!-- 7478654/3318/3313 -->
+    </match>
+    <match id="b45c7e16-b95f-4634-a050-674860bbec28" status="closed" scheduled="2016-03-19T15:00:00Z" scratched="false" season_id="5027923a-4641-4c6d-964b-22d605b16c0f">
+      <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+      <tournament_group id="fdc32c0e-2a6a-4bbe-b855-41fef6369bfe" name="Premier League" season_start="2015-08-07T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015"/>
+      <tournament id="d8ddadd3-9a93-46bc-82b2-bc88c08b7255" name="Premier League" season_id="5027923a-4641-4c6d-964b-22d605b16c0f" season_start="2015-08-07T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015" type="group"/>
+      <home id="618e7f40-7a78-47de-afcf-3ad1fee9f677" name="Chelsea" alias="CHE" country_code="ENG" country="England" type="team"/>
+      <away id="1f81c3b0-1f1f-4225-9d6e-07885c1db509" name="West Ham" alias="WHA" country_code="ENG" country="England" type="team"/>
+      <venue id="f65cbaa7-000b-448c-8dd5-abe5ea607b96" name="Stamford Bridge" country_code="ENG" country="England" city="London" capacity="41798" coordinates="51.481579,-0.191094"/>
+      <round type="table" number="31" week="11"/>
+      <!-- 7465050/38/37 -->
+    </match>
+    <match id="9c9c167f-a8b6-4298-8bf4-123bab837572" status="closed" scheduled="2016-03-19T15:00:00Z" scratched="false" season_id="20042787-7b62-43ce-86ca-0b40fbc5318a">
+      <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+      <tournament_group id="86eacef9-75ae-4c3e-b308-db5190e25dc0" name="Championship" season_start="2015-08-06T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015"/>
+      <tournament id="1b997dd2-b27e-41eb-ac4d-2a17d021d3a4" name="Championship" season_id="20042787-7b62-43ce-86ca-0b40fbc5318a" season_start="2015-08-06T22:00:00Z" season_end="2016-05-30T21:59:00Z" season="2015" type="group"/>
+      <home id="83322ea2-597d-4fd2-b828-29cd33ce3882" name="Bristol City" alias="BRC" country_code="ENG" country="England" type="team"/>
+      <away id="b8c90280-978c-40fc-8cb8-35996992825f" name="Bolton" alias="BOL" country_code="ENG" country="England" type="team"/>
+      <venue id="f9204f86-f7af-45d6-b3e3-6f522e362ff1" name="Ashton Gate" country_code="ENG" country="England" city="Bristol" capacity="21497" coordinates="51.440000,-2.620278"/>
+      <round type="table" number="38" week="11"/>
+      <!-- 7466652/58/5 -->
+    </match>
+    <match id="c46416f0-503b-45e0-ba5e-70f8afac708c" status="closed" scheduled="2016-03-19T15:00:00Z" scratched="false" season_id="5027923a-4641-4c6d-964b-22d605b16c0f">
+      <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+      <tournament_group id="fdc32c0e-2a6a-4bbe-b855-41fef6369bfe" name="Premier League" season_start="2015-08-07T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015"/>
+      <tournament id="d8ddadd3-9a93-46bc-82b2-bc88c08b7255" name="Premier League" season_id="5027923a-4641-4c6d-964b-22d605b16c0f" season_start="2015-08-07T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015" type="group"/>
+      <home id="19d319d4-8fa8-4237-bf0d-3e07b5710c46" name="Crystal Palace" alias="CRY" country_code="ENG" country="England" type="team"/>
+      <away id="23c0db27-44ff-4c9e-b5d7-7a08f607d673" name="Leicester" alias="LEI" country_code="ENG" country="England" type="team"/>
+      <venue id="6762bfdb-da8f-4295-939b-b7d871780e83" name="Selhurst Park" country_code="ENG" country="England" city="London" capacity="25073" coordinates="51.398333,-0.085556"/>
+      <round type="table" number="31" week="11"/>
+      <!-- 7465052/7/31 -->
+    </match>
+    <match id="62954c55-7ab0-4501-94fa-38fef5f0eea7" status="closed" scheduled="2016-03-19T15:15:00Z" scratched="false" season_id="8441da0c-cfdc-45f4-ac60-160d02c04570">
+      <category id="6c960722-2eca-41ef-ae5d-41464d26f99a" name="Greece" country_code="GRC" country="Greece"/>
+      <tournament_group id="3f8e0d22-25a0-4180-82e0-4a10a941b5b7" name="Super League" season_start="2013-08-16T22:00:00Z" season_end="2016-05-02T21:59:00Z" season="2013"/>
+      <tournament id="9b6063ec-74a2-444a-aee9-101b0da08b9b" name="Super League" season_id="8441da0c-cfdc-45f4-ac60-160d02c04570" season_start="2015-08-20T22:00:00Z" season_end="2016-05-02T21:59:00Z" season="2015" type="group"/>
+      <home id="a20413e0-bb4a-4587-a015-a163cc276bdb" name="Veroia" alias="VER" country_code="GRC" country="Greece" type="team"/>
+      <away id="18ca59af-07f1-4dfe-a709-745bcd618659" name="Platanias" alias="PLA" country_code="GRC" country="Greece" type="team"/>
+      <venue id="07cb50c9-29f0-4344-8bd3-ed5930bd6a4e" name="Veria Stadium" country_code="GRC" country="Greece" city="Veria" capacity="7000" coordinates="40.534111,22.202361"/>
+      <round type="table" number="27" week="11"/>
+      <!-- 8044472/6351/37488 -->
+    </match>
+    <match id="07d39934-d2ae-404f-ac8e-64628856ab3f" status="closed" scheduled="2016-03-19T16:00:00Z" scratched="false" season_id="bf626a89-0d1a-4ce7-917b-9762acc4cf56">
+      <category id="90137cc7-d251-4f40-af3f-c3a2101f53a3" name="France" country_code="FRA" country="France"/>
+      <tournament_group id="eb8c8dc3-6dc9-4adb-b42e-9b0230629147" name="Ligue 1" season_start="2015-08-06T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015"/>
+      <tournament id="b328aeb8-38d6-45d8-bda3-25f375a9bd18" name="Ligue 1" season_id="bf626a89-0d1a-4ce7-917b-9762acc4cf56" season_start="2015-08-06T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015" type="group"/>
+      <home id="ac84c562-9f5c-4f38-a9dd-0ae2d1ab63b4" name="St. Etienne" alias="ETI" country_code="FRA" country="France" type="team"/>
+      <away id="31a0f5fd-366e-4107-9f83-871b5baad633" name="Montpellier" alias="MTP" country_code="FRA" country="France" type="team"/>
+      <venue id="c236e1e6-2522-4c0d-8ba0-d0906f979586" name="Stade Geoffroy Guichard" country_code="FRA" country="France" city="Saint Etienne" capacity="42000" coordinates="45.460833,4.390278"/>
+      <round type="table" number="31" week="11"/>
+      <!-- 7473994/1678/1642 -->
+    </match>
+    <match id="bfc40e1e-3fd7-4439-a603-7bf6b7e5ed22" status="closed" scheduled="2016-03-19T16:00:00Z" scratched="false" season_id="634861fa-e7c9-4352-bf3e-3519ffff8464">
+      <category id="8a739798-9506-4f64-ae46-9ccca75d7dc6" name="Romania" country_code="ROU" country="Romania"/>
+      <tournament_group id="8987ecdb-ab98-4556-9de5-d0dabdb8a16a" name="Liga I" season_start="2015-07-09T22:00:00Z" season_end="2016-06-06T21:59:00Z" season="2015"/>
+      <tournament id="d2dc9db7-105b-40c9-baa4-45ae701a2825" name="Liga 1, Relegation round" season_id="634861fa-e7c9-4352-bf3e-3519ffff8464" season_start="2015-07-09T22:00:00Z" season_end="2016-06-06T21:59:00Z" season="2015" type="group"/>
+      <home id="6f2e7d61-b63c-4ecd-989f-bfb63768deb6" name="Botosani" alias="BOT" country_code="ROU" country="Romania" type="team"/>
+      <away id="4e35b5e3-d939-49b6-b0d7-24d37b96385f" name="Concordia" alias="CON" country_code="ROU" country="Romania" type="team"/>
+      <venue id="b71713c2-9bee-4172-9d5e-85518e183677" name="Stadionul Municipal" country_code="ROU" country="Romania" city="Botosani" capacity="7782" coordinates="47.748205,26.651984"/>
+      <round type="table" number="3" week="11"/>
+      <!-- 9026655/24798/24790 -->
+    </match>
+    <match id="bda99557-a042-407e-bf31-bb45506ebba1" status="closed" scheduled="2016-03-19T16:30:00Z" scratched="false" season_id="1bda05c0-cd0f-4219-b7aa-49dd348cc582">
+      <category id="37ac0ccc-6dcc-4783-b5c5-0dd7e2b2e673" name="Russia" country_code="RUS" country="Russian Federation"/>
+      <tournament_group id="78c55c5a-0985-4c71-a52c-b047e535537c" name="Premier League" season_start="2015-07-15T22:00:00Z" season_end="2016-06-06T21:59:00Z" season="2015"/>
+      <tournament id="c2f5fb83-e6b9-4bee-a9c8-0aebbc41c351" name="Premier League" season_id="1bda05c0-cd0f-4219-b7aa-49dd348cc582" season_start="2015-07-15T22:00:00Z" season_end="2016-06-06T21:59:00Z" season="2015" type="group"/>
+      <home id="7c438e06-e68e-4e8b-93a9-5727f91b98ac" name="CSKA Moscow" alias="CSK" country_code="RUS" country="Russian Federation" type="team"/>
+      <away id="1717b644-9d3e-455c-8f31-d924c0c9928d" name="Kuban Krasnodar" alias="KUB" country_code="RUS" country="Russian Federation" type="team"/>
+      <venue id="1824c07e-3756-4e07-85d3-b9464e313bfa" name="Arena Khimki" country_code="RUS" country="Russian Federation" city="Khimki" capacity="18636" coordinates="55.885300,37.454200"/>
+      <round type="table" number="21" week="11"/>
+      <!-- 7507568/2325/2343 -->
+    </match>
+    <match id="f993d3bc-2011-4c94-9b88-6b5df674a706" status="closed" scheduled="2016-03-19T16:45:00Z" scratched="false" season_id="0da9b34e-29f3-431b-ab1f-b742b696382e">
+      <category id="e1be9cff-b4ad-4a81-8aa5-ad9d7b401b15" name="Switzerland" country_code="CHE" country="Switzerland"/>
+      <tournament_group id="2a457785-6abb-45af-968d-81e14d9cd42a" name="Super League" season_start="2015-07-16T22:00:00Z" season_end="2016-05-29T21:59:00Z" season="2015"/>
+      <tournament id="2449e1bd-35bf-442f-81b4-2ee268a050ca" name="Super League" season_id="0da9b34e-29f3-431b-ab1f-b742b696382e" season_start="2015-07-16T22:00:00Z" season_end="2016-05-29T21:59:00Z" season="2015" type="group"/>
+      <home id="bcf326a1-e649-40fe-834d-9e709415531d" name="Thun" alias="THU" country_code="CHE" country="Switzerland" type="team"/>
+      <away id="2bcbc745-68cc-4489-9fdb-721b30a46310" name="Luzern" alias="LUZ" country_code="CHE" country="Switzerland" type="team"/>
+      <venue id="5af2d76a-c662-441d-b2c5-efab9037143a" name="Stockhorn Arena" country_code="CHE" country="Switzerland" city="Thun" capacity="10024" coordinates="46.744817,7.606075"/>
+      <round type="table" number="25" week="11"/>
+      <!-- 7482622/2454/2453 -->
+    </match>
+    <match id="c4a021dd-7b32-429b-9a95-ab96919f9537" status="closed" scheduled="2016-03-19T17:00:00Z" scratched="false" season_id="63fb4b05-0471-4e4f-bdef-3bfbabf0b101">
+      <category id="74a09b78-1ad8-467b-a401-888284c3c2a5" name="Poland" country_code="POL" country="Poland"/>
+      <tournament_group id="e30f6d53-5546-4a67-9097-514843d9d8e2" name="Ekstraklasa" season_start="2015-07-16T22:00:00Z" season_end="2016-06-06T21:59:00Z" season="2015"/>
+      <tournament id="a6b762ab-9a42-4be4-b711-83a3d6745992" name="Ekstraklasa" season_id="63fb4b05-0471-4e4f-bdef-3bfbabf0b101" season_start="2015-07-16T22:00:00Z" season_end="2016-06-06T21:59:00Z" season="2015" type="group"/>
+      <home id="0d817b61-576b-4a69-b34e-257f61bd7161" name="Slask Wroclaw" alias="SLA" country_code="POL" country="Poland" type="team"/>
+      <away id="d8b59fed-5877-4cbc-b073-ff066ec19994" name="Ruch Chorzow" alias="CHO" country_code="POL" country="Poland" type="team"/>
+      <venue id="0f715769-2647-4d79-b257-7e441242f907" name="Municipal Stadium Wroclaw" country_code="POL" country="Poland" city="Wroclaw" capacity="43673" coordinates="51.141196,16.943804"/>
+      <round type="table" number="28" week="11"/>
+      <!-- 7470654/3108/3105 -->
+    </match>
+    <match id="2a61ed83-b045-4b6c-9425-09f29f74678e" status="closed" scheduled="2016-03-19T17:00:00Z" scratched="false" season_id="84d5445e-8dfd-437e-a798-a3c5024940a7">
+      <category id="9637e80b-096a-45bf-b4fa-59da8d456467" name="Turkey" country_code="TUR" country="Turkey"/>
+      <tournament_group id="fa9452f9-2b46-4975-8078-949418776dc9" name="Super Lig" season_start="2015-08-13T22:00:00Z" season_end="2016-05-23T21:59:00Z" season="2015"/>
+      <tournament id="076c36b5-1ebd-48c3-a14b-c3e26c4198c8" name="Super Lig" season_id="84d5445e-8dfd-437e-a798-a3c5024940a7" season_start="2015-08-13T22:00:00Z" season_end="2016-05-23T21:59:00Z" season="2015" type="group"/>
+      <home id="717c3366-5fbe-4ab3-b8eb-1c18b85050b5" name="Besiktas" alias="BES" country_code="TUR" country="Turkey" type="team"/>
+      <away id="4006e7b9-f06b-4b00-9b0c-0612136fe616" name="Antalyaspor" alias="ANT" country_code="TUR" country="Turkey" type="team"/>
+      <venue id="aea22022-1251-4ab8-a5a9-d2283e36e1f1" name="Basaksehir Fatih Terim Stadium" country_code="TUR" country="Turkey" city="Istanbul" capacity="17319" coordinates="41.122784,28.808701"/>
+      <round type="table" number="26" week="11"/>
+      <!-- 7588682/3050/3056 -->
+    </match>
+    <match id="7fe50e13-635f-46a4-b39c-9503542223cc" status="closed" scheduled="2016-03-19T17:00:00Z" scratched="false" season_id="3fdc1b57-0612-44bc-844a-5248c0292340">
+      <category id="9bec909e-600b-4891-8773-61532d0ecf84" name="Italy" country_code="ITA" country="Italy"/>
+      <tournament_group id="cd24a25b-3fc0-48fd-9c54-f793d51af976" name="Serie A" season_start="2015-08-20T22:00:00Z" season_end="2016-06-01T21:59:00Z" season="2015"/>
+      <tournament id="4c08a075-b8a9-44ea-a1a0-7916ec5b472c" name="Serie A" season_id="3fdc1b57-0612-44bc-844a-5248c0292340" season_start="2015-08-20T22:00:00Z" season_end="2016-06-01T21:59:00Z" season="2015" type="group"/>
+      <home id="2200f3ac-4fb3-4155-9a59-322e689a1567" name="Empoli" alias="EMP" country_code="ITA" country="Italy" type="team"/>
+      <away id="1a06ea4c-f97b-4c84-8e75-62b9b148826f" name="Palermo" alias="PAL" country_code="ITA" country="Italy" type="team"/>
+      <venue id="0015b7ec-11ef-4d3b-b703-f2a9b86c4c90" name="Carlo Castellani" country_code="ITA" country="Italy" city="Empoli" capacity="19847" coordinates="43.726389,10.955000"/>
+      <round type="table" number="30" week="11"/>
+      <!-- 7689296/2705/2715 -->
+    </match>
+    <match id="7525af68-eb7d-479a-88e8-1e5296aea220" status="closed" scheduled="2016-03-19T17:15:00Z" scratched="false" season_id="b47b47cd-6790-4ea1-ad17-4c92ec956738">
+      <category id="eea96a14-a70c-410a-8950-5cdce820b68d" name="Spain" country_code="ESP" country="Spain"/>
+      <tournament_group id="64e90d00-9ea0-4c91-8292-e78414439d54" name="Primera Division" season_start="2015-07-13T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015"/>
+      <tournament id="004bb0f3-ea53-49e1-a699-5478c252466d" name="Primera Division" season_id="b47b47cd-6790-4ea1-ad17-4c92ec956738" season_start="2015-07-13T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015" type="group"/>
+      <home id="046336e4-e69f-4145-9421-1cfed939b3bc" name="Real Sociedad" alias="SOC" country_code="ESP" country="Spain" type="team"/>
+      <away id="da7e0fe2-f318-4bfa-856a-fda0bc0293af" name="Las Palmas" alias="LAP" country_code="ESP" country="Spain" type="team"/>
+      <venue id="c7fa083e-8bde-4a23-bdd3-cee8d3335261" name="Anoeta" country_code="ESP" country="Spain" city="San Sebastian" capacity="32200" coordinates="43.301376,-1.973602"/>
+      <round type="table" number="30" week="11"/>
+      <!-- 7610736/2824/6577 -->
+    </match>
+    <match id="9603bf4f-35b9-44cb-ac04-ccdabeef7d38" status="closed" scheduled="2016-03-19T17:15:00Z" scratched="false" season_id="b47b47cd-6790-4ea1-ad17-4c92ec956738">
+      <category id="eea96a14-a70c-410a-8950-5cdce820b68d" name="Spain" country_code="ESP" country="Spain"/>
+      <tournament_group id="64e90d00-9ea0-4c91-8292-e78414439d54" name="Primera Division" season_start="2015-07-13T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015"/>
+      <tournament id="004bb0f3-ea53-49e1-a699-5478c252466d" name="Primera Division" season_id="b47b47cd-6790-4ea1-ad17-4c92ec956738" season_start="2015-07-13T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015" type="group"/>
+      <home id="975f8cb4-4612-4b98-9aa7-a76acc2fd13e" name="Granada" alias="GRA" country_code="ESP" country="Spain" type="team"/>
+      <away id="caa10693-8c12-4b26-baec-7921861a80bd" name="Vallecano" alias="RVC" country_code="ESP" country="Spain" type="team"/>
+      <venue id="3f3019be-69b7-4ffa-b099-f4554f958ec1" name="Los Carmenes" country_code="ESP" country="Spain" city="Granada" capacity="23156" coordinates="37.152966,-3.595736"/>
+      <round type="table" number="30" week="11"/>
+      <!-- 7610748/33779/2818 -->
+    </match>
+    <match id="1fb0a824-a3f6-4a12-83b8-233cb06a73c3" status="closed" scheduled="2016-03-19T17:30:00Z" scratched="false" season_id="a38e115b-4b24-44e2-8c28-44185010c349">
+      <category id="32f11468-bf4e-421d-be4d-1b7487cc03d7" name="Austria" country_code="AUT" country="Austria"/>
+      <tournament_group id="d597380f-4fbe-43ad-b47d-d06d07f52dad" name="Bundesliga" season_start="2015-07-23T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015"/>
+      <tournament id="3abcbd00-0b02-4f2f-93ff-b1cb711db389" name="Bundesliga" season_id="a38e115b-4b24-44e2-8c28-44185010c349" season_start="2015-07-23T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015" type="group"/>
+      <home id="9f938dc0-d4c8-4f5d-b1fe-bd9db7c8a276" name="SCR Altach" alias="ALT" country_code="AUT" country="Austria" type="team"/>
+      <away id="ab950d69-cb3c-41f4-9cbc-0d093a3c3396" name="SV Grodig" alias="SVG" country_code="AUT" country="Austria" type="team"/>
+      <venue id="a85ec153-32bb-43be-8494-f070f6994a09" name="Cashpoint Arena" country_code="AUT" country="Austria" city="Altach" capacity="8500" coordinates="47.353889, 9.636667"/>
+      <round type="table" number="28" week="11"/>
+      <!-- 7479222/4856/6002 -->
+    </match>
+    <match id="02002a88-08e8-43e2-af6f-ecc2b0e00b46" status="closed" scheduled="2016-03-19T17:30:00Z" scratched="false" season_id="5027923a-4641-4c6d-964b-22d605b16c0f">
+      <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+      <tournament_group id="fdc32c0e-2a6a-4bbe-b855-41fef6369bfe" name="Premier League" season_start="2015-08-07T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015"/>
+      <tournament id="d8ddadd3-9a93-46bc-82b2-bc88c08b7255" name="Premier League" season_id="5027923a-4641-4c6d-964b-22d605b16c0f" season_start="2015-08-07T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015" type="group"/>
+      <home id="0ab9e882-01ad-47ad-ae8f-79c11e4f294f" name="Swansea" alias="SWA" country_code="ENG" country="England" type="team"/>
+      <away id="cff01c6a-797a-437b-9173-47e8d8c2d8c5" name="Aston Villa" alias="AST" country_code="ENG" country="England" type="team"/>
+      <venue id="140b3eb3-7314-42fe-826c-c9c92f950356" name="Liberty Stadium" country_code="WAL" country="Wales" city="Swansea" capacity="20827" coordinates="51.642200,-3.935100"/>
+      <round type="table" number="31" week="11"/>
+      <!-- 7465062/74/40 -->
+    </match>
+    <match id="3b8ac1a9-5650-45a0-abdc-23cb19a8f8a2" status="closed" scheduled="2016-03-19T17:30:00Z" scratched="false" season_id="a38e115b-4b24-44e2-8c28-44185010c349">
+      <category id="32f11468-bf4e-421d-be4d-1b7487cc03d7" name="Austria" country_code="AUT" country="Austria"/>
+      <tournament_group id="d597380f-4fbe-43ad-b47d-d06d07f52dad" name="Bundesliga" season_start="2015-07-23T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015"/>
+      <tournament id="3abcbd00-0b02-4f2f-93ff-b1cb711db389" name="Bundesliga" season_id="a38e115b-4b24-44e2-8c28-44185010c349" season_start="2015-07-23T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015" type="group"/>
+      <home id="54e85b27-061c-4cfc-ad28-554f529bea38" name="Admira" alias="ADM" country_code="AUT" country="Austria" type="team"/>
+      <away id="8e1203ea-4520-4552-9ac2-1385a95c746f" name="Sturm Graz" alias="STU" country_code="AUT" country="Austria" type="team"/>
+      <venue id="c21bb860-19e5-4dfa-9910-a324a16adda0" name="BSFZ-Arena" country_code="AUT" country="Austria" city="Maria Enzersdorf" capacity="10800" coordinates="48.097500,16.310833"/>
+      <round type="table" number="28" week="11"/>
+      <!-- 7479228/2050/2051 -->
+    </match>
+    <match id="fa8ae40f-d735-4798-8128-484e8bd4df60" status="closed" scheduled="2016-03-19T17:30:00Z" scratched="false" season_id="659f0f2a-8859-4160-9208-c674152dd059">
+      <category id="7ba3e936-0d68-46b5-99eb-d0c98e021e91" name="Germany" country_code="DEU" country="Germany"/>
+      <tournament_group id="d8901247-b449-4b53-be9d-6acde655cc44" name="Bundesliga" season_start="2015-08-13T22:00:00Z" season_end="2016-05-25T21:59:00Z" season="2015"/>
+      <tournament id="2b2304d2-9628-4679-ab3c-c47c3af23560" name="Bundesliga" season_id="659f0f2a-8859-4160-9208-c674152dd059" season_start="2015-08-13T22:00:00Z" season_end="2016-05-25T21:59:00Z" season="2015" type="group"/>
+      <home id="2bc29921-e9a4-40d8-a806-5aaf21aefd64" name="E. Frankfurt" alias="FRA" country_code="DEU" country="Germany" type="team"/>
+      <away id="fb7acac5-5a86-462a-a83b-5a373bb56f81" name="Hannover" alias="HAN" country_code="DEU" country="Germany" type="team"/>
+      <venue id="7f96dcbb-d0a8-4b18-a75e-faa0b8e3f04f" name="Commerzbank Arena" country_code="DEU" country="Germany" city="Frankfurt" capacity="51500" coordinates="50.068779,8.646290"/>
+      <round type="table" number="27" week="11"/>
+      <!-- 7518290/2674/2541 -->
+    </match>
+    <match id="40cdc943-bad1-49ac-b42a-30968cdec159" status="closed" scheduled="2016-03-19T17:30:00Z" scratched="false" season_id="a38e115b-4b24-44e2-8c28-44185010c349">
+      <category id="32f11468-bf4e-421d-be4d-1b7487cc03d7" name="Austria" country_code="AUT" country="Austria"/>
+      <tournament_group id="d597380f-4fbe-43ad-b47d-d06d07f52dad" name="Bundesliga" season_start="2015-07-23T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015"/>
+      <tournament id="3abcbd00-0b02-4f2f-93ff-b1cb711db389" name="Bundesliga" season_id="a38e115b-4b24-44e2-8c28-44185010c349" season_start="2015-07-23T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015" type="group"/>
+      <home id="a38b5626-e66e-45e1-9466-8f9bd32c2351" name="RB Salzburg" alias="RBS" country_code="AUT" country="Austria" type="team"/>
+      <away id="3cc8f324-8a51-42a8-8d07-828869df287f" name="Mattersburg" alias="SVM" country_code="AUT" country="Austria" type="team"/>
+      <venue id="2604eb83-5eb4-4c58-832c-c715dc1f0d1f" name="Red Bull Arena" country_code="AUT" country="Austria" city="Salzburg" capacity="30188" coordinates="47.816264, 12.998228"/>
+      <round type="table" number="28" week="11"/>
+      <!-- 7479220/2046/2061 -->
+    </match>
+    <match id="a740df2a-c60e-42ad-ac21-1b8172d44ab9" status="closed" scheduled="2016-03-19T17:30:00Z" scratched="false" season_id="8441da0c-cfdc-45f4-ac60-160d02c04570">
+      <category id="6c960722-2eca-41ef-ae5d-41464d26f99a" name="Greece" country_code="GRC" country="Greece"/>
+      <tournament_group id="3f8e0d22-25a0-4180-82e0-4a10a941b5b7" name="Super League" season_start="2013-08-16T22:00:00Z" season_end="2016-05-02T21:59:00Z" season="2013"/>
+      <tournament id="9b6063ec-74a2-444a-aee9-101b0da08b9b" name="Super League" season_id="8441da0c-cfdc-45f4-ac60-160d02c04570" season_start="2015-08-20T22:00:00Z" season_end="2016-05-02T21:59:00Z" season="2015" type="group"/>
+      <home id="70e377bf-b42f-4c44-a5db-b009c5283b60" name="Panathinaikos" alias="PAN" country_code="GRC" country="Greece" type="team"/>
+      <away id="1f0aed58-68b1-4120-ad63-d4587eba4f87" name="Iraklis 1908" alias="IKL" country_code="GRC" country="Greece" type="team"/>
+      <venue id="5d1ca243-3b4b-428e-9fd8-c9a0d6e7e81d" name="Apostolos Nikolaidis" country_code="GRC" country="Greece" city="Athens" capacity="16003" coordinates="37.987169,23.754194"/>
+      <round type="table" number="27" week="11"/>
+      <!-- 8560098/3248/81751 -->
+    </match>
+    <match id="5efd84b8-f17f-4067-8678-5660f7f675c7" status="closed" scheduled="2016-03-19T17:30:00Z" scratched="false" season_id="6818e37c-55ea-401d-83d8-07cd2899b8ee">
+      <category id="d1a50060-2ceb-45b6-ae08-b3a1ca38da86" name="Ukraine" country_code="UKR" country="Ukraine"/>
+      <tournament_group id="1a5bfc9a-57ed-49a6-9a9f-ac1e9f3fcc09" name="Premier League" season_start="2015-07-16T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015"/>
+      <tournament id="417d7be0-3b5b-4573-9b72-e8c037093f6a" name="Premier League" season_id="6818e37c-55ea-401d-83d8-07cd2899b8ee" season_start="2015-07-16T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015" type="group"/>
+      <home id="45c15051-6de0-4785-978e-3e1c91a11a86" name="Metalist" alias="KHA" country_code="UKR" country="Ukraine" type="team"/>
+      <away id="766a69ed-1c8e-415b-9a3b-e561354fb2e7" name="Vorskla" alias="POL" country_code="UKR" country="Ukraine" type="team"/>
+      <venue id="edc5e198-fe1a-446a-ba03-b2277c8d4bc8" name="Metalist Stadium" country_code="UKR" country="Ukraine" city="Kharkiv" capacity="38633" coordinates="49.980858,36.261703"/>
+      <round type="table" number="19" week="11"/>
+      <!-- 7478656/3314/3309 -->
+    </match>
+    <match id="94cfca03-9c9b-455c-97db-c1ceebefd926" status="closed" scheduled="2016-03-19T17:30:00Z" scratched="false" season_id="866f3b38-6604-46a5-bd1d-527f3cc6dac2">
+      <category id="77796062-f516-4e20-bc29-4fb6fba605b3" name="Netherlands" country_code="NLD" country="Netherlands"/>
+      <tournament_group id="c064795b-be1e-45f8-9727-28c7e00cbaef" name="Eredivisie" season_start="2015-06-17T22:00:00Z" season_end="2016-06-13T21:59:00Z" season="2015"/>
+      <tournament id="ce5eaa52-8a17-4f5e-85ea-1732decc24c1" name="Eredivisie" season_id="866f3b38-6604-46a5-bd1d-527f3cc6dac2" season_start="2015-06-17T22:00:00Z" season_end="2016-06-13T21:59:00Z" season="2015" type="group"/>
+      <home id="50714131-4bf6-4cd8-aef3-f789ed3bf595" name="Heerenveen" alias="HEE" country_code="NLD" country="Netherlands" type="team"/>
+      <away id="5da3968a-1611-471b-8bb9-38bbfc6249bc" name="Heracles" alias="HER" country_code="NLD" country="Netherlands" type="team"/>
+      <venue id="68ade6e8-3f0e-461b-8e56-5bbd35de58cf" name="Abe Lenstra Stadion" country_code="NLD" country="Netherlands" city="Heerenveen" capacity="26100" coordinates="52.958611,5.936111"/>
+      <round type="table" number="28" week="11"/>
+      <!-- 7475436/2964/2977 -->
+    </match>
+    <match id="6bd636f3-540e-4552-85f7-1aa8ef752a92" status="closed" scheduled="2016-03-19T18:30:00Z" scratched="false" season_id="4311843c-b8e1-46d0-9c30-ad04a9ab82e0">
+      <category id="41a5d148-0107-44be-81a0-a524a1b7e8fb" name="Portugal" country_code="PRT" country="Portugal"/>
+      <tournament_group id="ed663318-5add-4c8c-b3e4-af451d330fb9" name="Primeira Liga" season_start="2014-08-14T22:00:00Z" season_end="2016-06-06T21:59:00Z" season="2014"/>
+      <tournament id="f95aa74d-3260-4edf-996b-99a98b18e00a" name="Primeira Liga" season_id="4311843c-b8e1-46d0-9c30-ad04a9ab82e0" season_start="2015-08-13T22:00:00Z" season_end="2016-06-06T21:59:00Z" season="2015" type="group"/>
+      <home id="ee5401a3-f74a-4488-ba1d-259b46252bf0" name="Sporting" alias="SPO" country_code="PRT" country="Portugal" type="team"/>
+      <away id="ad1e567f-19cd-4303-90ac-e1a3e67a1bac" name="Arouca" alias="ARO" country_code="PRT" country="Portugal" type="team"/>
+      <venue id="17860f37-a4d2-4eee-a4e1-06143dc5c912" name="Jose Alvalade" country_code="PRT" country="Portugal" city="Lisbon" capacity="50044" coordinates="38.761246,-9.160833"/>
+      <round type="table" number="27" week="11"/>
+      <!-- 7558456/3001/25777 -->
+    </match>
+    <match id="05a97056-52f2-406a-a816-619ba006216e" status="closed" scheduled="2016-03-19T18:30:00Z" scratched="false" season_id="634861fa-e7c9-4352-bf3e-3519ffff8464">
+      <category id="8a739798-9506-4f64-ae46-9ccca75d7dc6" name="Romania" country_code="ROU" country="Romania"/>
+      <tournament_group id="8987ecdb-ab98-4556-9de5-d0dabdb8a16a" name="Liga I" season_start="2015-07-09T22:00:00Z" season_end="2016-06-06T21:59:00Z" season="2015"/>
+      <tournament id="b36caedc-5c8c-4e07-902c-27d1e21c3b49" name="Liga 1, Championship round" season_id="634861fa-e7c9-4352-bf3e-3519ffff8464" season_start="2015-07-09T22:00:00Z" season_end="2016-06-06T21:59:00Z" season="2015" type="group"/>
+      <home id="2f274720-9f6f-4584-ba02-200ffcf3a9f1" name="Viitorul" alias="VII" country_code="ROU" country="Romania" type="team"/>
+      <away id="342492c1-8e58-44b6-9043-cf7c199895a6" name="Steaua B." alias="STB" country_code="ROU" country="Romania" type="team"/>
+      <venue id="778b8868-79b9-4849-8169-32ac56c6ceae" name="Complex Sportiv Academia Gheorghe Hagi" country_code="ROU" country="Romania" city="Constanta" capacity="5000" coordinates="44.235683,28.564323"/>
+      <round type="table" number="3" week="11"/>
+      <!-- 9020457/37426/3301 -->
+    </match>
+    <match id="26621ae8-64d0-4f6e-80f3-1e46552aa8f0" status="closed" scheduled="2016-03-19T18:45:00Z" scratched="false" season_id="866f3b38-6604-46a5-bd1d-527f3cc6dac2">
+      <category id="77796062-f516-4e20-bc29-4fb6fba605b3" name="Netherlands" country_code="NLD" country="Netherlands"/>
+      <tournament_group id="c064795b-be1e-45f8-9727-28c7e00cbaef" name="Eredivisie" season_start="2015-06-17T22:00:00Z" season_end="2016-06-13T21:59:00Z" season="2015"/>
+      <tournament id="ce5eaa52-8a17-4f5e-85ea-1732decc24c1" name="Eredivisie" season_id="866f3b38-6604-46a5-bd1d-527f3cc6dac2" season_start="2015-06-17T22:00:00Z" season_end="2016-06-13T21:59:00Z" season="2015" type="group"/>
+      <home id="77832e20-a82a-4b49-a1f2-0dae1319e8ce" name="PEC Zwolle" alias="ZWO" country_code="NLD" country="Netherlands" type="team"/>
+      <away id="c364b932-227c-4d3d-a1d1-dd060861a57a" name="Willem II" alias="WIL" country_code="NLD" country="Netherlands" type="team"/>
+      <venue id="bc168351-fefe-49d4-9730-c06c11144421" name="IJsseldelta Stadion" country_code="NLD" country="Netherlands" city="Zwolle" capacity="12500" coordinates="52.517252,6.120819"/>
+      <round type="table" number="28" week="11"/>
+      <!-- 7475440/2971/2961 -->
+    </match>
+    <match id="4bb78bee-a9dc-48f1-a896-36af668e71c7" status="closed" scheduled="2016-03-19T18:45:00Z" scratched="false" season_id="866f3b38-6604-46a5-bd1d-527f3cc6dac2">
+      <category id="77796062-f516-4e20-bc29-4fb6fba605b3" name="Netherlands" country_code="NLD" country="Netherlands"/>
+      <tournament_group id="c064795b-be1e-45f8-9727-28c7e00cbaef" name="Eredivisie" season_start="2015-06-17T22:00:00Z" season_end="2016-06-13T21:59:00Z" season="2015"/>
+      <tournament id="ce5eaa52-8a17-4f5e-85ea-1732decc24c1" name="Eredivisie" season_id="866f3b38-6604-46a5-bd1d-527f3cc6dac2" season_start="2015-06-17T22:00:00Z" season_end="2016-06-13T21:59:00Z" season="2015" type="group"/>
+      <home id="394936fd-bf8f-4fea-889d-91f193dc8156" name="Feyenoord" alias="FEY" country_code="NLD" country="Netherlands" type="team"/>
+      <away id="893d0c88-0860-4845-89c8-2ee05cd05621" name="De Graafschap" alias="GRA" country_code="NLD" country="Netherlands" type="team"/>
+      <venue id="06ca3bdf-7866-4f06-b90c-e51152dfaa56" name="De Kuip" country_code="NLD" country="Netherlands" city="Rotterdam" capacity="51177" coordinates="51.893894,4.523253"/>
+      <round type="table" number="28" week="11"/>
+      <!-- 7475438/2959/2949 -->
+    </match>
+    <match id="49079115-c094-4f17-b24e-03e4ec49f7ab" status="closed" scheduled="2016-03-19T19:00:00Z" scratched="false" season_id="bf626a89-0d1a-4ce7-917b-9762acc4cf56">
+      <category id="90137cc7-d251-4f40-af3f-c3a2101f53a3" name="France" country_code="FRA" country="France"/>
+      <tournament_group id="eb8c8dc3-6dc9-4adb-b42e-9b0230629147" name="Ligue 1" season_start="2015-08-06T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015"/>
+      <tournament id="b328aeb8-38d6-45d8-bda3-25f375a9bd18" name="Ligue 1" season_id="bf626a89-0d1a-4ce7-917b-9762acc4cf56" season_start="2015-08-06T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015" type="group"/>
+      <home id="2cd3efcd-8343-4c8b-834d-0849e0013709" name="Angers" alias="ANG" country_code="FRA" country="France" type="team"/>
+      <away id="08669b97-4418-468a-aae8-a9c2a6c15cdf" name="Lorient" alias="LOR" country_code="FRA" country="France" type="team"/>
+      <venue id="39cb916c-e810-4009-a84e-480583fc852f" name="Stade Jean-Bouin" country_code="FRA" country="France" city="Angers" capacity="49100" coordinates="47.460427,-0.530804"/>
+      <round type="table" number="31" week="11"/>
+      <!-- 7473992/1684/1656 -->
+    </match>
+    <match id="78be2ef6-dbc8-4787-8739-04eae5071ef3" status="closed" scheduled="2016-03-19T19:00:00Z" scratched="false" season_id="bf626a89-0d1a-4ce7-917b-9762acc4cf56">
+      <category id="90137cc7-d251-4f40-af3f-c3a2101f53a3" name="France" country_code="FRA" country="France"/>
+      <tournament_group id="eb8c8dc3-6dc9-4adb-b42e-9b0230629147" name="Ligue 1" season_start="2015-08-06T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015"/>
+      <tournament id="b328aeb8-38d6-45d8-bda3-25f375a9bd18" name="Ligue 1" season_id="bf626a89-0d1a-4ce7-917b-9762acc4cf56" season_start="2015-08-06T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015" type="group"/>
+      <home id="8006ba4c-74df-41b2-bf01-731412b2eaaf" name="Caen" alias="CAE" country_code="FRA" country="France" type="team"/>
+      <away id="0f2fc9df-b7ba-4c91-abea-89c450ccc0b7" name="Troyes" alias="TRY" country_code="FRA" country="France" type="team"/>
+      <venue id="53a6c8f1-9cc5-4c7a-b55e-d649894bc94c" name="Stade Michel d'Ornano" country_code="FRA" country="France" city="Caen" capacity="21215" coordinates="49.179461,-0.396767"/>
+      <round type="table" number="31" week="11"/>
+      <!-- 7474008/1667/1652 -->
+    </match>
+    <match id="a5a7d9c7-1c43-4320-91c1-d02a85dabb0e" status="closed" scheduled="2016-03-19T19:00:00Z" scratched="false" season_id="bf626a89-0d1a-4ce7-917b-9762acc4cf56">
+      <category id="90137cc7-d251-4f40-af3f-c3a2101f53a3" name="France" country_code="FRA" country="France"/>
+      <tournament_group id="eb8c8dc3-6dc9-4adb-b42e-9b0230629147" name="Ligue 1" season_start="2015-08-06T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015"/>
+      <tournament id="b328aeb8-38d6-45d8-bda3-25f375a9bd18" name="Ligue 1" season_id="bf626a89-0d1a-4ce7-917b-9762acc4cf56" season_start="2015-08-06T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015" type="group"/>
+      <home id="1247088d-e08b-40d6-a53a-bbe91a20fe6c" name="Lille" alias="LIL" country_code="FRA" country="France" type="team"/>
+      <away id="bafd7a77-116a-4c38-86be-11db0030159b" name="Toulouse" alias="TOU" country_code="FRA" country="France" type="team"/>
+      <venue id="26fa9d22-79f4-4b2c-81ac-726d7228be60" name="Stade Pierre Mauroy" country_code="FRA" country="France" city="Lille" capacity="50000" coordinates="50.631111,3.137500"/>
+      <round type="table" number="31" week="11"/>
+      <!-- 7473998/1643/1681 -->
+    </match>
+    <match id="9cf711d5-fbce-4600-972c-9bda505a076b" status="closed" scheduled="2016-03-19T19:00:00Z" scratched="false" season_id="0da9b34e-29f3-431b-ab1f-b742b696382e">
+      <category id="e1be9cff-b4ad-4a81-8aa5-ad9d7b401b15" name="Switzerland" country_code="CHE" country="Switzerland"/>
+      <tournament_group id="2a457785-6abb-45af-968d-81e14d9cd42a" name="Super League" season_start="2015-07-16T22:00:00Z" season_end="2016-05-29T21:59:00Z" season="2015"/>
+      <tournament id="2449e1bd-35bf-442f-81b4-2ee268a050ca" name="Super League" season_id="0da9b34e-29f3-431b-ab1f-b742b696382e" season_start="2015-07-16T22:00:00Z" season_end="2016-05-29T21:59:00Z" season="2015" type="group"/>
+      <home id="2537a956-d5aa-4d1c-a1bf-5d2a96346e1a" name="St. Gallen" alias="STG" country_code="CHE" country="Switzerland" type="team"/>
+      <away id="e87e00f0-0963-4c31-a921-86801104af2b" name="Young Boys Bern" alias="YBB" country_code="CHE" country="Switzerland" type="team"/>
+      <venue id="2584a345-743a-419a-8bd0-e2af4f01f447" name="AFG-Arena" country_code="CHE" country="Switzerland" city="St.Gallen" capacity="19456" coordinates="47.408333,9.306389"/>
+      <round type="table" number="25" week="11"/>
+      <!-- 7482620/2442/2445 -->
+    </match>
+    <match id="212bf4ba-4d61-4cad-8d71-f31b0eedffbd" status="closed" scheduled="2016-03-19T19:00:00Z" scratched="false" season_id="bf626a89-0d1a-4ce7-917b-9762acc4cf56">
+      <category id="90137cc7-d251-4f40-af3f-c3a2101f53a3" name="France" country_code="FRA" country="France"/>
+      <tournament_group id="eb8c8dc3-6dc9-4adb-b42e-9b0230629147" name="Ligue 1" season_start="2015-08-06T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015"/>
+      <tournament id="b328aeb8-38d6-45d8-bda3-25f375a9bd18" name="Ligue 1" season_id="bf626a89-0d1a-4ce7-917b-9762acc4cf56" season_start="2015-08-06T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015" type="group"/>
+      <home id="12b9ff31-57bc-4a49-bbb9-8d83ab48a22a" name="Reims" alias="REI" country_code="FRA" country="France" type="team"/>
+      <away id="ae5ab4e9-4fd6-4fd7-bf11-c3ee8e9dde56" name="Guingamp" alias="GUI" country_code="FRA" country="France" type="team"/>
+      <venue id="9ba58170-fcd1-45c6-bbfa-bb39bff80406" name="Stade Auguste Delaune" country_code="FRA" country="France" city="Reims" capacity="21684" coordinates="49.246389,4.025000"/>
+      <round type="table" number="31" week="11"/>
+      <!-- 7474010/1682/1654 -->
+    </match>
+    <match id="d906aca1-a83d-4c75-861b-1e8b83d08a46" status="inprogress" scheduled="2016-03-19T19:30:00Z" scratched="false" season_id="63fb4b05-0471-4e4f-bdef-3bfbabf0b101">
+      <category id="74a09b78-1ad8-467b-a401-888284c3c2a5" name="Poland" country_code="POL" country="Poland"/>
+      <tournament_group id="e30f6d53-5546-4a67-9097-514843d9d8e2" name="Ekstraklasa" season_start="2015-07-16T22:00:00Z" season_end="2016-06-06T21:59:00Z" season="2015"/>
+      <tournament id="a6b762ab-9a42-4be4-b711-83a3d6745992" name="Ekstraklasa" season_id="63fb4b05-0471-4e4f-bdef-3bfbabf0b101" season_start="2015-07-16T22:00:00Z" season_end="2016-06-06T21:59:00Z" season="2015" type="group"/>
+      <home id="5d397b74-0bc3-44ac-b362-20bd957806b0" name="Lech Poznan" alias="LEC" country_code="POL" country="Poland" type="team"/>
+      <away id="3a199c19-66db-4cf1-936e-1aa61dfb9507" name="Legia Warsaw" alias="LEG" country_code="POL" country="Poland" type="team"/>
+      <venue id="4bba1f43-2195-496d-a40e-105066f9e80a" name="INEA Stadion" country_code="POL" country="Poland" city="Poznan" capacity="43269" coordinates="52.397222,16.858056"/>
+      <round type="table" number="28" week="11"/>
+      <!-- 7470658/3121/3106 -->
+    </match>
+    <match id="3ae79e1e-828e-4351-bb9a-241daa85c8d1" status="inprogress" scheduled="2016-03-19T19:30:00Z" scratched="false" season_id="b47b47cd-6790-4ea1-ad17-4c92ec956738">
+      <category id="eea96a14-a70c-410a-8950-5cdce820b68d" name="Spain" country_code="ESP" country="Spain"/>
+      <tournament_group id="64e90d00-9ea0-4c91-8292-e78414439d54" name="Primera Division" season_start="2015-07-13T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015"/>
+      <tournament id="004bb0f3-ea53-49e1-a699-5478c252466d" name="Primera Division" season_id="b47b47cd-6790-4ea1-ad17-4c92ec956738" season_start="2015-07-13T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015" type="group"/>
+      <home id="5b351859-5091-4fc2-be91-792fe7c8b032" name="Deportivo" alias="COR" country_code="ESP" country="Spain" type="team"/>
+      <away id="e0600eed-5501-4c5b-822d-5bd0b3fec115" name="Levante" alias="LEV" country_code="ESP" country="Spain" type="team"/>
+      <venue id="64c57432-38b7-4531-8456-a5bb680eee46" name="Riazor" country_code="ESP" country="Spain" city="La Coruna" capacity="34600" coordinates="43.249809,-8.285710"/>
+      <round type="table" number="30" week="11"/>
+      <!-- 7610740/2832/2849 -->
+    </match>
+    <match id="e099d8f9-4602-457c-8803-da7713076767" status="inprogress" scheduled="2016-03-19T19:30:00Z" scratched="false" season_id="4d0879bd-3531-44e6-afc5-c6f12c35c773">
+      <category id="15f78e19-a74b-4d02-891c-8700ce006914" name="Ireland" country_code="IRL" country="Republic of Ireland"/>
+      <tournament_group id="9861f045-2044-4461-ab23-d3479feda304" name="Premier Division" season_start="2016-03-03T23:00:00Z" season_end="2016-11-21T22:59:00Z" season="2016"/>
+      <tournament id="3fbde5b5-d6c0-4e1d-adc1-cfd9882c7701" name="Premier Division" season_id="4d0879bd-3531-44e6-afc5-c6f12c35c773" season_start="2016-03-03T23:00:00Z" season_end="2016-11-21T22:59:00Z" season="2016" type="group"/>
+      <home id="f7189391-d79e-4008-b9ef-66f5d4a6a6ba" name="Longford Town" alias="LON" country_code="IRL" country="Republic of Ireland" type="team"/>
+      <away id="32b889d1-800e-429c-afbf-2049d6cf0538" name="Bray Wanderers" alias="BRA" country_code="IRL" country="Republic of Ireland" type="team"/>
+      <venue id="cb6e64fd-5136-4579-a92f-d0426c8ba1ea" name="City Calling Stadium" country_code="IRL" country="Republic of Ireland" city="Longford" capacity="4500" coordinates="53.724167,-7.853611"/>
+      <round type="table" number="4" week="11"/>
+      <!-- 8693048/3175/3171 -->
+    </match>
+    <match id="35909b7a-184a-43e3-b81f-b5683bb1f141" status="inprogress" scheduled="2016-03-19T19:45:00Z" scratched="false" season_id="4d0879bd-3531-44e6-afc5-c6f12c35c773">
+      <category id="15f78e19-a74b-4d02-891c-8700ce006914" name="Ireland" country_code="IRL" country="Republic of Ireland"/>
+      <tournament_group id="9861f045-2044-4461-ab23-d3479feda304" name="Premier Division" season_start="2016-03-03T23:00:00Z" season_end="2016-11-21T22:59:00Z" season="2016"/>
+      <tournament id="3fbde5b5-d6c0-4e1d-adc1-cfd9882c7701" name="Premier Division" season_id="4d0879bd-3531-44e6-afc5-c6f12c35c773" season_start="2016-03-03T23:00:00Z" season_end="2016-11-21T22:59:00Z" season="2016" type="group"/>
+      <home id="b9f3670b-eeb2-438f-8b2c-5ee88253d3f2" name="Sligo Rovers" alias="SLR" country_code="IRL" country="Republic of Ireland" type="team"/>
+      <away id="95cb72a5-2ae1-4b80-98e3-7cdedd329887" name="Finn Harps" alias="FHA" country_code="IRL" country="Republic of Ireland" type="team"/>
+      <venue id="4a11a6b1-2cf1-49f3-8fd7-511b538bbb41" name="The Showgrounds" country_code="IRL" country="Republic of Ireland" city="Sligo" capacity="5500" coordinates="54.269969,-8.487446"/>
+      <round type="table" number="4" week="11"/>
+      <!-- 8693050/3190/3181 -->
+    </match>
+    <match id="41014939-8bc3-4ebc-bdf3-988053231a03" status="inprogress" scheduled="2016-03-19T19:45:00Z" scratched="false" season_id="3fdc1b57-0612-44bc-844a-5248c0292340">
+      <category id="9bec909e-600b-4891-8773-61532d0ecf84" name="Italy" country_code="ITA" country="Italy"/>
+      <tournament_group id="cd24a25b-3fc0-48fd-9c54-f793d51af976" name="Serie A" season_start="2015-08-20T22:00:00Z" season_end="2016-06-01T21:59:00Z" season="2015"/>
+      <tournament id="4c08a075-b8a9-44ea-a1a0-7916ec5b472c" name="Serie A" season_id="3fdc1b57-0612-44bc-844a-5248c0292340" season_start="2015-08-20T22:00:00Z" season_end="2016-06-01T21:59:00Z" season="2015" type="group"/>
+      <home id="2f7749b5-88e0-478e-af8c-1efbe47c7ee9" name="Roma" alias="ROM" country_code="ITA" country="Italy" type="team"/>
+      <away id="d6a7681b-1d8c-45ac-b0eb-f6612c7a8312" name="Inter" alias="INT" country_code="ITA" country="Italy" type="team"/>
+      <venue id="e938a81b-a80d-4d3b-8858-a59096a9f309" name="Stadio Olimpico" country_code="ITA" country="Italy" city="Rome" capacity="72698" coordinates="41.933886,12.454786"/>
+      <round type="table" number="30" week="11"/>
+      <!-- 7689284/2702/2697 -->
+    </match>
+    <match id="ba7a7866-5590-4b93-8160-f9c92d7c7061" status="inprogress" scheduled="2016-03-19T19:45:00Z" scratched="false" season_id="866f3b38-6604-46a5-bd1d-527f3cc6dac2">
+      <category id="77796062-f516-4e20-bc29-4fb6fba605b3" name="Netherlands" country_code="NLD" country="Netherlands"/>
+      <tournament_group id="c064795b-be1e-45f8-9727-28c7e00cbaef" name="Eredivisie" season_start="2015-06-17T22:00:00Z" season_end="2016-06-13T21:59:00Z" season="2015"/>
+      <tournament id="ce5eaa52-8a17-4f5e-85ea-1732decc24c1" name="Eredivisie" season_id="866f3b38-6604-46a5-bd1d-527f3cc6dac2" season_start="2015-06-17T22:00:00Z" season_end="2016-06-13T21:59:00Z" season="2015" type="group"/>
+      <home id="6d66e2a4-ca2f-44fe-83bb-9d85d6948811" name="Cambuur" alias="CAM" country_code="NLD" country="Netherlands" type="team"/>
+      <away id="3ed60268-4ce3-4b7d-9350-74c086900dec" name="Roda" alias="ROD" country_code="NLD" country="Netherlands" type="team"/>
+      <venue id="01ad4fec-6cd3-4495-aa75-6ceebb2aab10" name="Cambuur Stadion" country_code="NLD" country="Netherlands" city="Leeuwarden" capacity="10000" coordinates="53.205278,5.814722"/>
+      <round type="table" number="28" week="11"/>
+      <!-- 7475442/2970/2954 -->
+    </match>
+    <match id="4622e9fe-7323-452e-9990-486784ecec87" status="inprogress" scheduled="2016-03-19T20:00:00Z" scratched="false" season_id="bf626a89-0d1a-4ce7-917b-9762acc4cf56">
+      <category id="90137cc7-d251-4f40-af3f-c3a2101f53a3" name="France" country_code="FRA" country="France"/>
+      <tournament_group id="eb8c8dc3-6dc9-4adb-b42e-9b0230629147" name="Ligue 1" season_start="2015-08-06T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015"/>
+      <tournament id="b328aeb8-38d6-45d8-bda3-25f375a9bd18" name="Ligue 1" season_id="bf626a89-0d1a-4ce7-917b-9762acc4cf56" season_start="2015-08-06T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015" type="group"/>
+      <home id="e9c376a1-9769-49e3-902a-2992dcb0517b" name="Ol. Lyon" alias="LYO" country_code="FRA" country="France" type="team"/>
+      <away id="3d7f909c-3abb-4730-9585-cd9f1c81a502" name="Nantes" alias="NAN" country_code="FRA" country="France" type="team"/>
+      <venue id="15ad9e10-b0eb-485e-bf60-e0553afe557a" name="Parc Olympique Lyonnais" country_code="FRA" country="France" city="Lyon" capacity="59186" coordinates="45.766912,4.980991"/>
+      <round type="table" number="31" week="11"/>
+      <!-- 7474004/1649/1647 -->
+    </match>
+    <match id="33f0590c-e5bf-4ea6-832d-60ae63b8e643" status="inprogress" scheduled="2016-03-19T20:45:00Z" scratched="false" season_id="4311843c-b8e1-46d0-9c30-ad04a9ab82e0">
+      <category id="41a5d148-0107-44be-81a0-a524a1b7e8fb" name="Portugal" country_code="PRT" country="Portugal"/>
+      <tournament_group id="ed663318-5add-4c8c-b3e4-af451d330fb9" name="Primeira Liga" season_start="2014-08-14T22:00:00Z" season_end="2016-06-06T21:59:00Z" season="2014"/>
+      <tournament id="f95aa74d-3260-4edf-996b-99a98b18e00a" name="Primeira Liga" season_id="4311843c-b8e1-46d0-9c30-ad04a9ab82e0" season_start="2015-08-13T22:00:00Z" season_end="2016-06-06T21:59:00Z" season="2015" type="group"/>
+      <home id="9145c3f6-37b0-437f-8e28-ae89f9804c74" name="V. Setubal" alias="SET" country_code="PRT" country="Portugal" type="team"/>
+      <away id="fb66a45f-3a22-44b7-8d2e-02b8daba8092" name="Porto" alias="POR" country_code="PRT" country="Portugal" type="team"/>
+      <venue id="808eeb07-5617-4dec-84bf-7e5adfc5b442" name="Estadio do Bonfim" country_code="PRT" country="Portugal" city="Setubal" capacity="18694" coordinates="38.531387,-8.891111"/>
+      <round type="table" number="27" week="11"/>
+      <!-- 7558466/3008/3002 -->
+    </match>
+    <match id="849c7ee8-ba8d-4309-90fd-8acbc8d50fd5" status="inprogress" scheduled="2016-03-19T21:05:00Z" scratched="false" season_id="b47b47cd-6790-4ea1-ad17-4c92ec956738">
+      <category id="eea96a14-a70c-410a-8950-5cdce820b68d" name="Spain" country_code="ESP" country="Spain"/>
+      <tournament_group id="64e90d00-9ea0-4c91-8292-e78414439d54" name="Primera Division" season_start="2015-07-13T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015"/>
+      <tournament id="004bb0f3-ea53-49e1-a699-5478c252466d" name="Primera Division" season_id="b47b47cd-6790-4ea1-ad17-4c92ec956738" season_start="2015-07-13T22:00:00Z" season_end="2016-05-16T21:59:00Z" season="2015" type="group"/>
+      <home id="3825e9f8-f052-4ab7-b104-f9255015fd0f" name="Betis" alias="BTS" country_code="ESP" country="Spain" type="team"/>
+      <away id="67568157-dbcd-48be-aa0b-f1d7cf2dd588" name="Malaga" alias="MGA" country_code="ESP" country="Spain" type="team"/>
+      <venue id="3e94f693-e0b9-49b3-b48e-bf453c69599e" name="Benito Villamarin" country_code="ESP" country="Spain" city="Seville" capacity="52500" coordinates="37.356483,-5.981768"/>
+      <round type="table" number="30" week="11"/>
+      <!-- 7610744/2816/2830 -->
+    </match>
+  </matches>
+</schedule>

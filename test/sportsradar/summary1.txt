@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary generated="2016-03-19T21:39:26Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-summary.xsd">
+  <matches>
+    <match id="d906aca1-a83d-4c75-861b-1e8b83d08a46" status="closed" period="P2" scheduled="2016-03-19T19:30:00Z" clock="" scratched="false" season_id="63fb4b05-0471-4e4f-bdef-3bfbabf0b101">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="74a09b78-1ad8-467b-a401-888284c3c2a5" name="Poland" country_code="POL" country="Poland"/>
+      <tournament_group id="e30f6d53-5546-4a67-9097-514843d9d8e2" name="Ekstraklasa"/>
+      <tournament id="a6b762ab-9a42-4be4-b711-83a3d6745992" name="Ekstraklasa" season_id="63fb4b05-0471-4e4f-bdef-3bfbabf0b101" type="group"/>
+      <referee id="d4b2b2cd-3007-4946-9b19-d6b037916f64" first_name="Szymon" last_name="Marciniak" country_code="POL" country="Poland"/>
+      <round type="table" number="28" week="11"/>
+      <home id="5d397b74-0bc3-44ac-b362-20bd957806b0" name="Lech Poznan" alias="LEC" country_code="POL" country="Poland" type="team" formation="4-2-3-1" score="0" regular_score="0" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="114" ball_safe="114" corner_kicks="5" dangerous_attacks="35" fouls="12" free_kicks="19" goal_attempts="4" goal_kicks="3" offsides="1" saves="5" substitutions="3" throw_ins="41" yellow_card="2" shots_on_target="3" shots_off_target="1" shots_total="4" possessions="46"/>
+        <manager id="8152b353-08e9-4c02-b958-12a6e092f69a" first_name="Jan" last_name="Urban" country_code="POL" country="Poland"/>
+        <players>
+          <player id="0a6cd8fe-188b-4d6f-955f-29c0d8a8cdc6" first_name="Tamas" last_name="Kadar" country_code="HUN" country="Hungary" position="D" started="true" jersey_number="5" tactical_position="4" tactical_order="5">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="0be573e6-255d-4146-bd98-11fceafedff7" first_name="Dariusz" last_name="Dudka" country_code="POL" country="Poland" position="D" started="false" jersey_number="15">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="33623162-35d4-4da3-938d-66e3ff610741" first_name="Maciej" last_name="Wilusz" country_code="POL" country="Poland" position="D" started="true" jersey_number="26" tactical_position="3" tactical_order="4">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4997591f-a4a4-41cd-b889-03d118c4ccc1" first_name="Tetteh" last_name="" country_code="GHA" country="Ghana" full_first_name="Abdul Aziz" full_last_name="Tetteh" position="M" started="true" jersey_number="55" tactical_position="6" tactical_order="7">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4a1c8aa3-9415-47c7-86cb-8f075b5d4b28" first_name="Lukasz" last_name="Tralka" country_code="POL" country="Poland" position="M" started="true" jersey_number="6" tactical_position="6" tactical_order="6">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4dc39594-fcb0-4eb5-a188-b90730e9b872" first_name="Krzysztof" last_name="Kotorowski" country_code="POL" country="Poland" position="G" started="false" jersey_number="27">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="53216444-3638-4ba0-b780-c89ebbd0c47d" first_name="Tomasz" last_name="Kedziora" country_code="POL" country="Poland" position="D" started="true" jersey_number="4" tactical_position="2" tactical_order="2">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="5bc9dbc9-8f07-4207-846e-e9b8a4bfbff1" first_name="Robert" last_name="Gumny" country_code="POL" country="Poland" position="D" started="false" jersey_number="2">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="66174312-0695-492b-a645-5a7d9ecd48fe" first_name="Nicki Bille" last_name="Nielsen" country_code="DNK" country="Denmark" full_first_name="Nicki Niels" full_last_name="Bille Nielsen" position="F" started="true" jersey_number="19" tactical_position="8" tactical_order="11">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="713737e6-7d01-425f-80e4-9aebb439fae3" first_name="Kebba" last_name="Ceesay" country_code="SWE" country="Sweden" position="D" started="false" jersey_number="21">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="8d540b37-aef5-48a1-80c7-d7ed04da5c09" first_name="Kamil" last_name="Jozwiak" country_code="POL" country="Poland" position="M" started="true" jersey_number="29" tactical_position="7" tactical_order="10">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="a5aa4cae-9155-47a0-b9f7-c80d0f371608" first_name="Darko" last_name="Jevtic" country_code="CHE" country="Switzerland" position="M" started="true" jersey_number="10" tactical_position="6" tactical_order="9">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="a77f1f04-aa9e-45a1-8157-0125e42e22b3" first_name="Sisi" last_name="" country_code="ESP" country="Spain" full_first_name="Sisinio" full_last_name="Gonzalez Martinez" position="M" started="false" jersey_number="25">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b49eeee9-3141-473e-84a0-dd5c35dea99c" first_name="Maciej" last_name="Gajos" country_code="POL" country="Poland" position="M" started="true" jersey_number="14" tactical_position="5" tactical_order="8">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="cf211e1b-c946-494c-9b9e-58c146ef2ab2" first_name="Jasmin" last_name="Buric" country_code="BIH" country="Bosnia and Herzegovina" position="G" started="true" jersey_number="1" tactical_position="1" tactical_order="1">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="cfc5f1b7-8db4-4620-9a0d-287512c2b399" first_name="Dawid" last_name="Kownacki" country_code="POL" country="Poland" position="M" started="false" jersey_number="24">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="edf4cd62-9f77-44cd-a374-80c9fc408c37" first_name="Paulus" last_name="Arajuuri" country_code="FIN" country="Finland" position="D" started="true" jersey_number="23" tactical_position="3" tactical_order="3">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </home>
+      <away id="3a199c19-66db-4cf1-936e-1aa61dfb9507" name="Legia Warsaw" alias="LEG" country_code="POL" country="Poland" type="team" formation="4-4-1-1" score="2" regular_score="2" penalty_score="" winner="true">
+        <scoring>
+          <half points="2" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="94" ball_safe="85" corner_kicks="11" dangerous_attacks="40" fouls="17" free_kicks="13" goal_attempts="8" goal_kicks="3" offsides="2" saves="3" substitutions="3" throw_ins="36" yellow_card="3" shots_on_target="7" shots_off_target="1" shots_total="8" possessions="54"/>
+        <manager id="16fa1ed6-a7a9-42d7-b9a0-d9f504eadf1c" first_name="Stanislav" last_name="Cherchesov" country_code="RUS" country="Russian Federation"/>
+        <players>
+          <player id="0abaf4dd-e5e6-470c-94dd-c6e817f794e8" first_name="Tomasz" last_name="Jodlowiec" country_code="POL" country="Poland" position="M" started="true" jersey_number="3" tactical_position="6" tactical_order="7">
+            <statistics goal="0" goal_assist="1" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="25a8bfc5-c20a-4ac8-a2d2-d88e62e09982" first_name="Adam" last_name="Hlousek" country_code="CZE" country="Czech Republic" position="M" started="true" jersey_number="14" tactical_position="4" tactical_order="5">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="3a1ffbda-a0ba-4955-bd17-a82a3245ce1a" first_name="Ariel" last_name="Borysiuk" country_code="POL" country="Poland" position="M" started="true" jersey_number="7" tactical_position="6" tactical_order="8">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="43945717-49a1-427b-9461-4a9725e817db" first_name="Lukasz" last_name="Broz" country_code="POL" country="Poland" position="D" started="false" jersey_number="28">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="4c7afd64-b3c3-4ebe-a10e-be02c7b57d0f" first_name="Ondrej" last_name="Duda" country_code="SVK" country="Slovakia" position="M" started="true" jersey_number="8" tactical_position="7" tactical_order="9">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="4fc3c717-b3d1-4734-b761-2bd1833b163b" first_name="Nemanja" last_name="Nikolic" country_code="HUN" country="Hungary" position="F" started="true" jersey_number="11" tactical_position="8" tactical_order="11">
+            <statistics goal="2" goal_assist="0" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="5ef38636-8b42-4495-855d-67a81a3571b3" first_name="Jakub" last_name="Szumski" country_code="POL" country="Poland" position="G" started="false" jersey_number="29">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="62d4206d-2acc-4c3d-9444-33e76d8bad73" first_name="Jakub" last_name="Rzezniczak" country_code="POL" country="Poland" position="D" started="false" jersey_number="25">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="6977e119-1d25-4c68-8310-c485505eb64b" first_name="Kasper" last_name="Hamalainen" country_code="FIN" country="Finland" position="M" started="false" jersey_number="22">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="724ddd3c-9681-40a9-a721-cad761539610" first_name="Aleksandar" last_name="Prijovic" country_code="CHE" country="Switzerland" position="F" started="true" jersey_number="99" tactical_position="8" tactical_order="10">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8577ce27-a02e-470d-8a56-813dff8fb331" first_name="Tomasz" last_name="Brzyski" country_code="POL" country="Poland" position="D" started="false" jersey_number="17">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8b765c4b-f009-443f-8cec-c860aefddb5b" first_name="Artur" last_name="Jedrzejczyk" country_code="POL" country="Poland" position="D" started="true" jersey_number="5" tactical_position="2" tactical_order="2">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8cbec53e-0aef-4299-a2f7-ffe274692680" first_name="Guilherme" last_name="" country_code="BRA" country="Brazil" full_first_name="Guilherme" full_last_name="Costa Marques" position="M" started="false" jersey_number="6">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="98febdcc-c4df-4df7-8542-101147b5f4a5" first_name="Stojan" last_name="Vranjes" country_code="BIH" country="Bosnia and Herzegovina" position="M" started="false" jersey_number="23">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="9a21b5e5-003a-4202-b2b4-ffa440bf8725" first_name="Mihail" last_name="Aleksandrov" country_code="BGR" country="Bulgaria" position="M" started="true" jersey_number="77" tactical_position="5" tactical_order="6">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="9dbb4904-b5a1-4e49-a687-afd61e945267" first_name="Michal" last_name="Pazdan" country_code="POL" country="Poland" position="D" started="true" jersey_number="2" tactical_position="3" tactical_order="4">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="aa10570b-ef80-4cc2-9400-ac22a6b6ceb0" first_name="Arkadiusz" last_name="Malarz" country_code="POL" country="Poland" position="G" started="true" jersey_number="1" tactical_position="1" tactical_order="1">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="ac402f80-2b0f-42f9-9a6d-0864c98fc997" first_name="Igor" last_name="Lewczuk" country_code="POL" country="Poland" position="D" started="true" jersey_number="4" tactical_position="3" tactical_order="3">
+            <statistics goal="0" goal_assist="0" own_goal="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </away>
+      <venue id="4bba1f43-2195-496d-a40e-105066f9e80a" name="INEA Stadion" country_code="POL" country="Poland" city="Poznan" capacity="43269" coordinates="52.397222,16.858056"/>
+      <facts>
+        <fact id="6463e99f-4e2f-4dc9-87e1-9007a105b011" type="about_to_start" time="2016-03-19T19:28:02Z" updated_time="2016-03-19T19:28:02Z" scratch="false"/>
+        <fact id="d311adf4-13bd-4e9c-97ca-507707d51546" type="match_started" time="2016-03-19T19:30:49Z" updated_time="2016-03-19T19:30:49Z" scratch="false" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0">
+          <description>The first-half is just kicking off.</description>
+        </fact>
+        <fact id="eee644f1-cfa0-47b7-83d5-375c042ee816" type="period_started" time="2016-03-19T19:30:49Z" updated_time="2016-03-19T19:30:49Z" scratch="false" period="P1"/>
+        <fact id="0bbdf45e-8f41-4b09-a295-2659cf84a961" type="throwin" time="2016-03-19T19:31:10Z" updated_time="2016-03-19T19:31:10Z" scratch="false" x="85" y="98" clock="1" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>Legia Warsaw needs to be cautious. Lech Poznan have an attacking throw-in.</description>
+        </fact>
+        <fact id="a492491a-0fea-4f79-90b8-fc4ddfcabb9f" type="throwin" time="2016-03-19T19:31:31Z" updated_time="2016-03-19T19:31:31Z" scratch="false" x="74" y="96" clock="1" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Ball safe as Legia Warsaw is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="404c4537-af58-4e91-9fe2-b41166e3dc02" type="free_kick" time="2016-03-19T19:32:01Z" updated_time="2016-03-19T19:32:01Z" scratch="false" x="43" y="72" clock="2" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>Szymon Marciniak signals a free kick to Lech Poznan in their own half.</description>
+        </fact>
+        <fact id="cfe8ee61-683b-44e0-9174-5ff8abd17e3d" type="throwin" time="2016-03-19T19:32:30Z" updated_time="2016-03-19T19:32:30Z" scratch="false" x="65" y="97" clock="2" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Throw-in for Legia Warsaw at INEA Stadion.</description>
+        </fact>
+        <fact id="895408e8-2477-40c8-a3bc-ed0d1fc1ff61" type="throwin" time="2016-03-19T19:32:49Z" updated_time="2016-03-19T19:32:49Z" scratch="false" x="57" y="97" clock="2" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Throw-in Legia Warsaw.</description>
+        </fact>
+        <fact id="e3be0d3e-cbee-49d2-a7a8-571b23145af2" type="throwin" time="2016-03-19T19:33:17Z" updated_time="2016-03-19T19:33:17Z" scratch="false" x="17" y="2" clock="3" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Can Legia Warsaw capitalize from this throw-in deep inside Lech Poznan's half?</description>
+        </fact>
+        <fact id="e8329893-b3c5-4b04-b65b-24358c883bed" type="throwin" time="2016-03-19T19:34:34Z" updated_time="2016-03-19T19:34:34Z" scratch="false" x="60" y="4" clock="4" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>Lech Poznan to take a throw-in in Legia Warsaw territory.</description>
+        </fact>
+        <fact id="13b9628b-724d-4dc9-afd6-363e201c8f09" type="throwin" time="2016-03-19T19:35:03Z" updated_time="2016-03-19T19:35:03Z" scratch="false" x="80" y="97" clock="5" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>Lech Poznan have a dangerous throw-in.</description>
+        </fact>
+        <fact id="5dea3774-5dfe-4b01-9eb0-8ef14c09e6cd" type="throwin" time="2016-03-19T19:35:58Z" updated_time="2016-03-19T19:35:58Z" scratch="false" x="44" y="4" clock="6" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>Lech Poznan awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="9d0d195a-3c2f-49ad-ba66-a54806e54f3a" type="free_kick" time="2016-03-19T19:36:18Z" updated_time="2016-03-19T19:36:18Z" scratch="false" x="58" y="24" clock="6" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Free kick for Legia Warsaw in their own half.</description>
+        </fact>
+        <fact id="57333407-6bc7-4592-b81d-ea16ec59c7da" type="goal_kick" time="2016-03-19T19:36:37Z" updated_time="2016-03-19T19:36:37Z" scratch="false" x="5" y="50" clock="6" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>Lech Poznan have a goal kick.</description>
+        </fact>
+        <fact id="ef5f70c1-2501-4978-aa4e-bc0f150077dd" type="throwin" time="2016-03-19T19:37:37Z" updated_time="2016-03-19T19:37:37Z" scratch="false" x="53" y="98" clock="7" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>A throw-in for the home team on the opposite half.</description>
+        </fact>
+        <fact id="3ad40b31-5270-4401-8c0f-4983ada2c852" type="throwin" time="2016-03-19T19:37:59Z" updated_time="2016-03-19T19:37:59Z" scratch="false" x="75" y="4" clock="8" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Throw-in for Legia Warsaw in their own half.</description>
+        </fact>
+        <fact id="4ac2376b-5b8f-44f7-bd7a-bf36cfc5e3c4" type="free_kick" time="2016-03-19T19:38:37Z" updated_time="2016-03-19T19:38:37Z" scratch="false" x="32" y="21" clock="8" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>Lech Poznan awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="421f7993-0b85-4452-a89b-e751c074e9a2" type="shot_blocked" time="2016-03-19T19:39:03Z" updated_time="2016-03-19T19:41:43Z" scratch="false" x="23" y="60" clock="9" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Ariel Borysiuk (Legia Warsaw) is given an opening but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="3e8dbaa1-6d66-4e72-a0cc-5cb413a0c1e2" type="free_kick" time="2016-03-19T19:39:12Z" updated_time="2016-03-19T19:39:12Z" scratch="false" x="39" y="57" clock="9" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>Lech Poznan awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="12daf88f-e73e-4e32-bf9c-c4f9561c47a0" type="throwin" time="2016-03-19T19:40:04Z" updated_time="2016-03-19T19:40:04Z" scratch="false" x="23" y="3" clock="10" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Throw-in for Legia Warsaw in the half of Lech Poznan.</description>
+        </fact>
+        <fact id="8c94340f-528a-45d0-93df-1844bc9ae0dd" type="corner_kick" time="2016-03-19T19:40:46Z" updated_time="2016-03-19T19:40:46Z" scratch="false" x="5" y="5" clock="10" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Legia Warsaw have been awarded a corner by Szymon Marciniak.</description>
+        </fact>
+        <fact id="a2896528-9eab-49ba-a0a6-323e3fb0037e" type="throwin" time="2016-03-19T19:41:32Z" updated_time="2016-03-19T19:41:32Z" scratch="false" x="67" y="98" clock="11" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>Can Lech Poznan get the ball into an attacking position from this throw-in in Legia Warsaw's half?</description>
+        </fact>
+        <fact id="12d76ce8-9a75-4efa-bf0b-a9eb20051191" type="throwin" time="2016-03-19T19:42:50Z" updated_time="2016-03-19T19:42:50Z" scratch="false" x="83" y="97" clock="12" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>Szymon Marciniak signals a throw-in for Lech Poznan, close to Legia Warsaw's area.</description>
+        </fact>
+        <fact id="114bb107-237a-4b5a-a80f-7ae034b6cfd7" type="shot_on_target" time="2016-03-19T19:43:24Z" updated_time="2016-03-19T19:43:24Z" scratch="false" x="88" y="49" clock="13" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" player_id="b49eeee9-3141-473e-84a0-dd5c35dea99c" period="P1">
+          <description>Lech Poznan's Maciej Gajos gets in a shot on goal at INEA Stadion. But the effort is unsuccessful.</description>
+        </fact>
+        <fact id="1bc6d9a9-8ecc-4283-8ad9-1f86ec814ed0" type="keeper_save" time="2016-03-19T19:43:24Z" updated_time="2016-03-19T19:43:24Z" scratch="false" clock="13" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1"/>
+        <fact id="d7857325-bf7d-42f8-a058-3e701f03f569" type="free_kick" time="2016-03-19T19:44:52Z" updated_time="2016-03-19T19:44:52Z" scratch="false" x="34" y="84" clock="14" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Szymon Marciniak signals a free kick to Legia Warsaw.</description>
+        </fact>
+        <fact id="68849817-9789-4ac2-91a6-28ab0c8db0ca" type="free_kick" time="2016-03-19T19:45:35Z" updated_time="2016-03-19T19:45:35Z" scratch="false" x="13" y="46" clock="15" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>Szymon Marciniak signals a free kick to Lech Poznan in their own half.</description>
+        </fact>
+        <fact id="a74000e4-768c-43d2-99e6-a6c15cfb2fde" type="throwin" time="2016-03-19T19:46:13Z" updated_time="2016-03-19T19:46:13Z" scratch="false" x="71" y="4" clock="16" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>Szymon Marciniak signals a Lech Poznan throw-in in Legia Warsaw's half.</description>
+        </fact>
+        <fact id="89f3fe5f-f5fa-425c-8bd1-a09abbf7c1d4" type="corner_kick" time="2016-03-19T19:47:56Z" updated_time="2016-03-19T19:47:56Z" scratch="false" x="95" y="90" clock="17" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>Corner awarded to Lech Poznan.</description>
+        </fact>
+        <fact id="22ffcc8c-ce51-4c4c-896f-38c29cc2a77a" type="throwin" time="2016-03-19T19:48:08Z" updated_time="2016-03-19T19:48:08Z" scratch="false" x="66" y="98" clock="18" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Szymon Marciniak awards the away team a throw-in.</description>
+        </fact>
+        <fact id="2922b6df-4a27-41a5-a794-f37746b9a1e8" type="throwin" time="2016-03-19T19:48:31Z" updated_time="2016-03-19T19:48:31Z" scratch="false" x="17" y="98" clock="18" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Throw-in for Legia Warsaw close to the penalty box.</description>
+        </fact>
+        <fact id="ea5ec2c6-876b-4a49-a3ee-9053aab90cc9" type="throwin" time="2016-03-19T19:48:59Z" updated_time="2016-03-19T19:48:59Z" scratch="false" x="26" y="99" clock="19" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>A throw-in for the away team on the opposite half.</description>
+        </fact>
+        <fact id="6315b878-7475-49a6-8eda-ca2e2459a46e" type="free_kick" time="2016-03-19T19:49:09Z" updated_time="2016-03-19T19:49:09Z" scratch="false" x="16" y="65" clock="19" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>Free kick for Lech Poznan in their own half.</description>
+        </fact>
+        <fact id="b139bb7b-f4cc-453e-859a-6ba0a88eda68" type="goal_kick" time="2016-03-19T19:51:01Z" updated_time="2016-03-19T19:51:01Z" scratch="false" x="95" y="50" clock="21" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>It's a goal kick for the away team in Poznan.</description>
+        </fact>
+        <fact id="9ee19036-9aaa-47b4-a507-64bb85a23d69" type="throwin" time="2016-03-19T19:51:58Z" updated_time="2016-03-19T19:51:58Z" scratch="false" x="69" y="99" clock="22" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>Szymon Marciniak signals a Lech Poznan throw-in in Legia Warsaw's half.</description>
+        </fact>
+        <fact id="18cbac1c-cba1-48fe-bb77-526a1e60780c" type="throwin" time="2016-03-19T19:52:18Z" updated_time="2016-03-19T19:52:18Z" scratch="false" x="63" y="98" clock="22" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Throw-in for Legia Warsaw at INEA Stadion.</description>
+        </fact>
+        <fact id="5416b9ab-12ac-4e41-9e77-abd6c64aa969" type="throwin" time="2016-03-19T19:52:53Z" updated_time="2016-03-19T19:52:53Z" scratch="false" x="43" y="97" clock="22" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>Ball safe as Lech Poznan is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="ccb647f0-c2c2-41df-8c03-0e1a5e2b5a65" type="throwin" time="2016-03-19T19:53:08Z" updated_time="2016-03-19T19:53:08Z" scratch="false" x="47" y="97" clock="23" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Throw-in for Legia Warsaw in the half of Lech Poznan.</description>
+        </fact>
+        <fact id="bf5b1596-a0ee-4eb0-a83a-d2e3f610d025" type="throwin" time="2016-03-19T19:53:23Z" updated_time="2016-03-19T19:53:23Z" scratch="false" x="40" y="97" clock="23" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Can Legia Warsaw get the ball into an attacking position from this throw-in in Lech Poznan's half?</description>
+        </fact>
+        <fact id="1214c5ab-528f-4693-9a2f-b04215f64e9f" type="throwin" time="2016-03-19T19:53:29Z" updated_time="2016-03-19T19:53:29Z" scratch="false" x="34" y="99" clock="23" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Legia Warsaw to take a throw-in in Lech Poznan territory.</description>
+        </fact>
+        <fact id="ab305e77-7d0f-4287-a8b4-fc021f73686d" type="throwin" time="2016-03-19T19:54:10Z" updated_time="2016-03-19T19:54:10Z" scratch="false" x="43" y="97" clock="24" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>Lech Poznan awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="674a0681-bfcd-4b41-bbbe-b32c54f1801e" type="free_kick" time="2016-03-19T19:55:03Z" updated_time="2016-03-19T19:55:03Z" scratch="false" x="18" y="31" clock="25" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>Szymon Marciniak signals a free kick to Lech Poznan in their own half.</description>
+        </fact>
+        <fact id="5139e1ec-f20c-4bf9-b80f-37dff2eedfc2" type="free_kick" time="2016-03-19T19:55:25Z" updated_time="2016-03-19T19:55:25Z" scratch="false" x="63" y="49" clock="25" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Legia Warsaw awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="c0079dbc-17d5-4694-b89f-7ae119086a3f" type="throwin" time="2016-03-19T19:56:12Z" updated_time="2016-03-19T19:56:12Z" scratch="false" x="45" y="96" clock="26" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>Throw-in for Lech Poznan in their own half.</description>
+        </fact>
+        <fact id="f493503b-ff13-431d-95f0-4b3cd8ca6925" type="throwin" time="2016-03-19T19:56:43Z" updated_time="2016-03-19T19:56:43Z" scratch="false" x="79" y="3" clock="26" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>Can Lech Poznan get the ball into an attacking position from this throw-in in Legia Warsaw's half?</description>
+        </fact>
+        <fact id="a906529a-8267-4cdb-81e7-aed029931f7d" type="injury" time="2016-03-19T19:57:13Z" updated_time="2016-03-19T19:57:13Z" scratch="false" x="79" y="3" clock="27" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" player_id="8b765c4b-f009-443f-8cec-c860aefddb5b" period="P1">
+          <description>Szymon Marciniak waits before resuming play because Artur Jedrzejczyk for Legia Warsaw is still down.</description>
+        </fact>
+        <fact id="07e3881a-7975-4c15-aa24-d3776ebd94ce" type="injury_return" time="2016-03-19T19:58:03Z" updated_time="2016-03-19T19:58:03Z" scratch="false" clock="28" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" player_id="8b765c4b-f009-443f-8cec-c860aefddb5b" period="P1">
+          <description>Artur Jedrzejczyk has recovered and rejoins the match in Poznan.</description>
+        </fact>
+        <fact id="9eeb96ce-2c44-4955-93fb-3f4cfd1bd529" type="game_resumed" time="2016-03-19T19:58:09Z" updated_time="2016-03-19T19:58:09Z" scratch="false" clock="28" period="P1">
+          <description>Play has been resumed.</description>
+        </fact>
+        <fact id="4f0308ec-5349-46af-b85c-8ade82ea9d0a" type="throwin" time="2016-03-19T19:58:21Z" updated_time="2016-03-19T19:58:21Z" scratch="false" x="87" y="3" clock="28" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Szymon Marciniak awards the away team a throw-in.</description>
+        </fact>
+        <fact id="ad150cf8-0d6c-4ead-a665-5078cd485738" type="injury" time="2016-03-19T19:58:29Z" updated_time="2016-03-19T19:58:29Z" scratch="false" x="87" y="3" clock="28" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" player_id="0a6cd8fe-188b-4d6f-955f-29c0d8a8cdc6" period="P1">
+          <description>The match has been stopped briefly for attention to the injured Tamas Kadar.</description>
+        </fact>
+        <fact id="79804518-249c-4f5d-b4a7-9dea23e9d60e" type="game_resumed" time="2016-03-19T19:58:36Z" updated_time="2016-03-19T19:58:36Z" scratch="false" clock="28" period="P1">
+          <description>Play is underway once more.</description>
+        </fact>
+        <fact id="858e5870-dfa3-400b-9414-2982b30e9df7" type="free_kick" time="2016-03-19T19:59:22Z" updated_time="2016-03-19T19:59:22Z" scratch="false" x="18" y="19" clock="29" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Lech Poznan will need to be alert as they defend a dangerous free kick from Legia Warsaw.</description>
+        </fact>
+        <fact id="d70874b7-b058-4806-bf9c-09c10269f24f" type="injury_return" time="2016-03-19T19:59:29Z" updated_time="2016-03-19T19:59:29Z" scratch="false" clock="29" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" player_id="0a6cd8fe-188b-4d6f-955f-29c0d8a8cdc6" period="P1">
+          <description>Lech Poznan’s Tamas Kadar is on his feet again at INEA Stadion.</description>
+        </fact>
+        <fact id="c4259032-a6d9-4af7-821a-a19c3a7e6251" type="throwin" time="2016-03-19T20:00:05Z" updated_time="2016-03-19T20:00:05Z" scratch="false" x="39" y="98" clock="30" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Szymon Marciniak signals a Legia Warsaw throw-in in Lech Poznan's half.</description>
+        </fact>
+        <fact id="3e560511-3a3b-4372-94e5-56b9ac8b021f" type="corner_kick" time="2016-03-19T20:01:23Z" updated_time="2016-03-19T20:01:23Z" scratch="false" x="5" y="90" clock="30" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Corner awarded to Legia Warsaw.</description>
+        </fact>
+        <fact id="9af006a6-496c-4bc9-833c-000b661bbd3c" type="goal_kick" time="2016-03-19T20:01:39Z" updated_time="2016-03-19T20:01:39Z" scratch="false" x="5" y="50" clock="31" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>Ball goes out of play for a Lech Poznan goal kick.</description>
+        </fact>
+        <fact id="273a9353-6125-4b63-9b40-438ebc9cb8b4" type="free_kick" time="2016-03-19T20:02:02Z" updated_time="2016-03-19T20:02:02Z" scratch="false" x="46" y="30" clock="32" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>In Poznan a free kick has been awarded the away team.</description>
+        </fact>
+        <fact id="4aeadbe3-5fd5-474b-9413-93f10789cbbe" type="shot_on_target" time="2016-03-19T20:02:33Z" updated_time="2016-03-19T20:02:51Z" scratch="false" x="13" y="41" clock="32" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" player_id="4fc3c717-b3d1-4734-b761-2bd1833b163b" period="P1">
+          <description>Legia Warsaw push forward through Nemanja Nikolic, whose finish on goal is saved.</description>
+        </fact>
+        <fact id="6428341c-a6b3-433e-9b62-7eb0b549c817" type="keeper_save" time="2016-03-19T20:02:33Z" updated_time="2016-03-19T20:02:33Z" scratch="false" clock="32" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1"/>
+        <fact id="f011e20c-cc02-4859-af0c-e84b8241f408" type="throwin" time="2016-03-19T20:02:45Z" updated_time="2016-03-19T20:02:45Z" scratch="false" x="36" y="98" clock="32" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Legia Warsaw to take a throw-in in Lech Poznan territory.</description>
+        </fact>
+        <fact id="ec1be2f1-45c6-4cd5-8725-63853ac6141b" type="shot_on_target" time="2016-03-19T20:04:08Z" updated_time="2016-03-19T20:04:12Z" scratch="false" x="18" y="62" clock="34" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" player_id="9a21b5e5-003a-4202-b2b4-ffa440bf8725" period="P1">
+          <description>Mihail Aleksandrov (Legia Warsaw) strikes – and hits the bar! Ohhhh so close!</description>
+        </fact>
+        <fact id="e06b909f-76c8-4578-8b88-53e4de926a81" type="keeper_save" time="2016-03-19T20:04:08Z" updated_time="2016-03-19T20:04:08Z" scratch="false" clock="34" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1"/>
+        <fact id="e429274b-636d-453f-97b6-5e9a99576de3" type="corner_kick" time="2016-03-19T20:04:48Z" updated_time="2016-03-19T20:04:48Z" scratch="false" x="5" y="5" clock="34" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Legia Warsaw have been awarded a corner by Szymon Marciniak.</description>
+        </fact>
+        <fact id="1319d4a5-b5d2-4284-8054-b85e1f7b95f8" type="shot_blocked" time="2016-03-19T20:04:56Z" updated_time="2016-03-19T20:05:47Z" scratch="false" x="22" y="48" clock="35" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Michal Pazdan (Legia Warsaw) goes for goal but the shot is blocked by an alert defence.</description>
+        </fact>
+        <fact id="a18fee0b-3a00-4940-aa33-ec34e4b373b4" type="throwin" time="2016-03-19T20:05:39Z" updated_time="2016-03-19T20:05:39Z" scratch="false" x="46" y="2" clock="35" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>Throw-in Lech Poznan.</description>
+        </fact>
+        <fact id="390d1f46-de2e-4ba8-8c3f-e99711f8b1e8" type="throwin" time="2016-03-19T20:06:03Z" updated_time="2016-03-19T20:06:03Z" scratch="false" x="82" y="2" clock="36" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>Throw-in high up the field for Lech Poznan in Poznan.</description>
+        </fact>
+        <fact id="0cdbbf22-dcf8-4bfd-a8dc-cfbb8a67a422" type="shot_blocked" time="2016-03-19T20:06:25Z" updated_time="2016-03-19T20:06:25Z" scratch="false" x="81" y="78" clock="36" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>Lech Poznan's Tomasz Kedziora gets in a shot but it is blocked by a Legia Warsaw defender.</description>
+        </fact>
+        <fact id="c9340cf4-6068-471b-aefe-e6bf7a35382c" type="throwin" time="2016-03-19T20:06:32Z" updated_time="2016-03-19T20:06:32Z" scratch="false" x="78" y="98" clock="36" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>Throw-in for Lech Poznan in the half of Legia Warsaw.</description>
+        </fact>
+        <fact id="a83cda2a-ee35-4e56-afc3-4e86153c873d" type="throwin" time="2016-03-19T20:06:50Z" updated_time="2016-03-19T20:06:50Z" scratch="false" x="78" y="96" clock="36" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>A throw-in for the home team on the opposite half.</description>
+        </fact>
+        <fact id="cb12e0de-a4b4-4e71-99ba-df09338b5285" type="free_kick" time="2016-03-19T20:07:27Z" updated_time="2016-03-19T20:07:27Z" scratch="false" x="56" y="70" clock="37" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Free kick for Legia Warsaw in their own half.</description>
+        </fact>
+        <fact id="bc92ce0c-26b2-4cb6-aa74-818dc4f4b13e" type="throwin" time="2016-03-19T20:08:16Z" updated_time="2016-03-19T20:08:16Z" scratch="false" x="60" y="97" clock="38" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>A throw-in for the home team on the opposite half.</description>
+        </fact>
+        <fact id="a0d2620c-5921-4d69-8e45-f64ee477fdb5" type="throwin" time="2016-03-19T20:09:01Z" updated_time="2016-03-19T20:09:01Z" scratch="false" x="62" y="3" clock="39" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Throw-in Legia Warsaw.</description>
+        </fact>
+        <fact id="ef5be7e8-f6e4-40dc-b225-9bc1224ffefd" type="free_kick" time="2016-03-19T20:09:29Z" updated_time="2016-03-19T20:09:29Z" scratch="false" x="47" y="54" clock="39" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>Szymon Marciniak signals a free kick to Lech Poznan in their own half.</description>
+        </fact>
+        <fact id="89cc3230-f159-4c93-982e-67ce9800c625" type="card" time="2016-03-19T20:09:41Z" updated_time="2016-03-19T20:09:41Z" scratch="false" clock="39" card="Y" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" player_id="9dbb4904-b5a1-4e49-a687-afd61e945267" period="P1">
+          <description>Michal Pazdan (Legia Warsaw) has received a yellow card from Szymon Marciniak.</description>
+        </fact>
+        <fact id="d6d26a12-e07c-41e7-8566-c075e267b924" type="throwin" time="2016-03-19T20:09:56Z" updated_time="2016-03-19T20:09:56Z" scratch="false" x="80" y="98" clock="40" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Throw-in for Legia Warsaw in their own half.</description>
+        </fact>
+        <fact id="2065bc39-b248-4c16-98ff-bf3b4dcb04a8" type="throwin" time="2016-03-19T20:10:28Z" updated_time="2016-03-19T20:10:28Z" scratch="false" x="66" y="98" clock="40" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Szymon Marciniak awards the away team a throw-in.</description>
+        </fact>
+        <fact id="4ab11efd-e941-44ca-ada4-a44b6edf3f47" type="throwin" time="2016-03-19T20:10:46Z" updated_time="2016-03-19T20:10:46Z" scratch="false" x="55" y="99" clock="40" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Legia Warsaw awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="f38595e9-00bc-4d51-b5ab-5192af925ab5" type="throwin" time="2016-03-19T20:11:24Z" updated_time="2016-03-19T20:11:24Z" scratch="false" x="49" y="3" clock="41" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>Throw-in for Lech Poznan at INEA Stadion.</description>
+        </fact>
+        <fact id="daf70265-578e-490f-a436-f95847f68505" type="goal" time="2016-03-19T20:12:40Z" updated_time="2016-03-19T20:12:40Z" scratch="false" x="14" y="60" clock="42" home_score="0" away_score="1" penalty="false" owngoal="false" header="false" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" player_id="4fc3c717-b3d1-4734-b761-2bd1833b163b" assist1_id="0abaf4dd-e5e6-470c-94dd-c6e817f794e8" period="P1">
+          <description>Nemanja Nikolic is on target to give Legia Warsaw a 0-1 advantage.</description>
+        </fact>
+        <fact id="1c050762-ae3a-46a9-9bdc-198f2468889b" type="offside" time="2016-03-19T20:14:38Z" updated_time="2016-03-19T20:14:38Z" scratch="false" x="72" y="82" clock="44" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>At INEA Stadion, Lech Poznan are penalized for being offside.</description>
+        </fact>
+        <fact id="7304fc50-ae4e-4e28-baa1-528b00041d39" type="penalty_awarded" time="2016-03-19T20:15:32Z" updated_time="2016-03-19T20:15:32Z" scratch="false" clock="45" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P1">
+          <description>Legia Warsaw have been given a penalty at INEA Stadion...</description>
+        </fact>
+        <fact id="f5b44639-ea22-466f-9b11-fd482dbfbaa9" type="card" time="2016-03-19T20:15:51Z" updated_time="2016-03-19T20:15:51Z" scratch="false" clock="45" card="Y" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" player_id="4997591f-a4a4-41cd-b889-03d118c4ccc1" period="P1">
+          <description>Tetteh (Lech Poznan) has received a first yellow card.</description>
+        </fact>
+        <fact id="5ddaea64-6f24-4f22-b276-548df59cf1f4" type="injury_time" time="2016-03-19T20:16:08Z" updated_time="2016-03-19T20:16:08Z" scratch="false" clock="45" injury_time="2" period="">
+          <description>2 minutes will be added to the 1st half in Poznan.</description>
+        </fact>
+        <fact id="5c95fae3-807e-465d-8b7c-22652c4a8a61" type="goal" time="2016-03-19T20:16:23Z" updated_time="2016-03-19T20:16:23Z" scratch="false" x="10" y="48" clock="45" injury_time="1" home_score="0" away_score="2" penalty="true" owngoal="false" header="false" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" player_id="4fc3c717-b3d1-4734-b761-2bd1833b163b" period="P1">
+          <description>Legia Warsaw have extended their lead to 0-2 courtesy of a Nemanja Nikolic penalty.</description>
+        </fact>
+        <fact id="08213acd-fd3e-4cfc-8990-11ef93c778d6" type="throwin" time="2016-03-19T20:17:42Z" updated_time="2016-03-19T20:17:42Z" scratch="false" x="37" y="2" clock="45" injury_time="2" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P1">
+          <description>Ball safe as Lech Poznan is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="e9176a03-7403-4a5f-9310-34ed1bee7c19" type="period_started" time="2016-03-19T20:17:51Z" updated_time="2016-03-19T20:17:51Z" scratch="false" period="H"/>
+        <fact id="94a848bd-5204-4d92-90e2-62fdd3fa5bef" type="period_over" time="2016-03-19T20:17:56Z" updated_time="2016-03-19T20:17:56Z" scratch="false" home_score="0" away_score="2" period="P1">
+          <description>The first half has been concluded at INEA Stadion.</description>
+        </fact>
+        <fact id="fa4b4755-9206-4d46-92f9-89e71b0f79e0" type="period_started" time="2016-03-19T20:33:57Z" updated_time="2016-03-19T20:33:57Z" scratch="false" period="P2"/>
+        <fact id="9876dd4a-02ae-4e96-b561-b4140c11e8b0" type="substitution" time="2016-03-19T20:33:40Z" updated_time="2016-03-19T20:33:40Z" scratch="false" clock="46" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" player_out_id="0a6cd8fe-188b-4d6f-955f-29c0d8a8cdc6" player_in_id="713737e6-7d01-425f-80e4-9aebb439fae3" period="P2">
+          <description>Kebba Ceesay is replacing Tamas Kadar for Lech Poznan at INEA Stadion.</description>
+        </fact>
+        <fact id="4da134f0-7421-4a67-82a1-ad137d646b76" type="free_kick" time="2016-03-19T20:35:09Z" updated_time="2016-03-19T20:35:09Z" scratch="false" x="59" y="22" clock="47" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Free kick Lech Poznan.</description>
+        </fact>
+        <fact id="e44d6cfc-2023-4e5e-9c4a-345d0784ee19" type="throwin" time="2016-03-19T20:36:04Z" updated_time="2016-03-19T20:36:04Z" scratch="false" x="64" y="97" clock="48" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Throw-in for Lech Poznan in the half of Legia Warsaw.</description>
+        </fact>
+        <fact id="f6f39692-ca97-4b32-9004-d832c8a31542" type="throwin" time="2016-03-19T20:36:28Z" updated_time="2016-03-19T20:36:28Z" scratch="false" x="40" y="98" clock="48" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Legia Warsaw to take a throw-in in Lech Poznan territory.</description>
+        </fact>
+        <fact id="4b535463-3f9d-41b4-98b9-6acda7dfa5f3" type="throwin" time="2016-03-19T20:36:48Z" updated_time="2016-03-19T20:36:48Z" scratch="false" x="51" y="97" clock="48" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Can Lech Poznan get the ball into an attacking position from this throw-in in Legia Warsaw's half?</description>
+        </fact>
+        <fact id="1727822e-c351-4ce0-8420-e7eef6888c61" type="throwin" time="2016-03-19T20:37:28Z" updated_time="2016-03-19T20:37:28Z" scratch="false" x="14" y="96" clock="49" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Szymon Marciniak signals a throw-in for Legia Warsaw, close to Lech Poznan's area.</description>
+        </fact>
+        <fact id="3f7af6fd-d1ab-4aa1-9c6b-c167ee823344" type="shot_blocked" time="2016-03-19T20:37:43Z" updated_time="2016-03-19T20:37:43Z" scratch="false" x="15" y="29" clock="49" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2"/>
+        <fact id="f6d86d92-694a-4135-959d-40b126bdb65e" type="corner_kick" time="2016-03-19T20:37:57Z" updated_time="2016-03-19T20:37:57Z" scratch="false" x="5" y="90" clock="49" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Corner awarded to Legia Warsaw.</description>
+        </fact>
+        <fact id="c228fa48-cce6-43bb-bc5e-2b1612bb5c32" type="corner_kick" time="2016-03-19T20:38:22Z" updated_time="2016-03-19T20:38:22Z" scratch="false" x="5" y="90" clock="50" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Legia Warsaw have been awarded a corner by Szymon Marciniak.</description>
+        </fact>
+        <fact id="a5ef888d-630b-4f81-991a-2fb29e8a1fd8" type="throwin" time="2016-03-19T20:38:53Z" updated_time="2016-03-19T20:38:53Z" scratch="false" x="78" y="96" clock="50" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Szymon Marciniak signals a Lech Poznan throw-in in Legia Warsaw's half.</description>
+        </fact>
+        <fact id="834d8de6-4aa4-4abf-9cca-ecd6e54139c6" type="throwin" time="2016-03-19T20:39:06Z" updated_time="2016-03-19T20:39:06Z" scratch="false" x="73" y="96" clock="51" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Szymon Marciniak awards the away team a throw-in.</description>
+        </fact>
+        <fact id="592380f4-3402-4384-a015-f8055f515b42" type="throwin" time="2016-03-19T20:39:24Z" updated_time="2016-03-19T20:39:24Z" scratch="false" x="52" y="96" clock="51" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Throw-in for Lech Poznan in the half of Legia Warsaw.</description>
+        </fact>
+        <fact id="b666a128-6d52-4da1-8469-2f18927e017c" type="throwin" time="2016-03-19T20:39:49Z" updated_time="2016-03-19T20:39:49Z" scratch="false" x="56" y="3" clock="51" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Lech Poznan to take a throw-in in Legia Warsaw territory.</description>
+        </fact>
+        <fact id="b54f5aba-04d6-476a-8b93-4ba28283fc1c" type="throwin" time="2016-03-19T20:40:33Z" updated_time="2016-03-19T20:40:33Z" scratch="false" x="25" y="96" clock="52" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Szymon Marciniak signals a Legia Warsaw throw-in in Lech Poznan's half.</description>
+        </fact>
+        <fact id="cfd6f4e0-2f4e-4304-83eb-d59515aee16a" type="shot_on_target" time="2016-03-19T20:40:59Z" updated_time="2016-03-19T20:41:33Z" scratch="false" x="11" y="37" clock="52" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" player_id="8b765c4b-f009-443f-8cec-c860aefddb5b" period="P2">
+          <description>Great shot from Legia Warsaw's Artur Jedrzejczyk but he is denied by the crossbar.</description>
+        </fact>
+        <fact id="4a4344e9-2510-4314-9240-f0d1bb9ba017" type="keeper_save" time="2016-03-19T20:40:59Z" updated_time="2016-03-19T20:40:59Z" scratch="false" clock="52" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2"/>
+        <fact id="49ffcae3-752c-47ec-8cba-167d3b1a5cdc" type="corner_kick" time="2016-03-19T20:41:25Z" updated_time="2016-03-19T20:41:25Z" scratch="false" x="5" y="90" clock="52" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Legia Warsaw have been awarded a corner by Szymon Marciniak.</description>
+        </fact>
+        <fact id="72fcb93c-bb34-4324-b35b-e97374931cf4" type="throwin" time="2016-03-19T20:41:35Z" updated_time="2016-03-19T20:41:35Z" scratch="false" x="14" y="97" clock="53" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Lech Poznan awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="58af5393-5b2d-45e5-b45c-7be25edb6542" type="throwin" time="2016-03-19T20:42:05Z" updated_time="2016-03-19T20:42:05Z" scratch="false" x="33" y="98" clock="54" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>A throw-in for the away team on the opposite half.</description>
+        </fact>
+        <fact id="10fcf744-c7c6-45e4-92a7-9f1930792e80" type="throwin" time="2016-03-19T20:42:45Z" updated_time="2016-03-19T20:42:45Z" scratch="false" x="45" y="97" clock="54" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Can Legia Warsaw get the ball into an attacking position from this throw-in in Lech Poznan's half?</description>
+        </fact>
+        <fact id="83695139-d569-46fd-a62f-24cd2c31f040" type="free_kick" time="2016-03-19T20:48:37Z" updated_time="2016-03-19T20:48:37Z" scratch="false" x="35" y="76" clock="60" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Free kick for Legia Warsaw in the half of Lech Poznan.</description>
+        </fact>
+        <fact id="fcdb425d-0ca8-4aa4-8bba-31f49c57bab2" type="card" time="2016-03-19T20:48:49Z" updated_time="2016-03-19T20:48:49Z" scratch="false" clock="60" card="Y" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" player_id="4a1c8aa3-9415-47c7-86cb-8f075b5d4b28" period="P2">
+          <description>Lukasz Tralka is booked for the home team.</description>
+        </fact>
+        <fact id="a100b02c-0434-49a0-a476-b6e81df84e61" type="throwin" time="2016-03-19T20:49:08Z" updated_time="2016-03-19T20:49:08Z" scratch="false" x="38" y="96" clock="61" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Legia Warsaw to take a throw-in in Lech Poznan territory.</description>
+        </fact>
+        <fact id="e5c7fa60-84ba-4eb1-b0dc-4f8a917e235c" type="shot_on_target" time="2016-03-19T20:49:39Z" updated_time="2016-03-19T20:49:39Z" scratch="false" x="7" y="65" clock="61" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" player_id="4fc3c717-b3d1-4734-b761-2bd1833b163b" period="P2">
+          <description>Legia Warsaw's Nemanja Nikolic is on target but unsuccessful.</description>
+        </fact>
+        <fact id="8d83994a-44cc-472f-8199-338f5ac505fe" type="keeper_save" time="2016-03-19T20:49:39Z" updated_time="2016-03-19T20:49:39Z" scratch="false" clock="61" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2"/>
+        <fact id="9be8b2a1-682d-4fb4-a439-64dbfcb5fe6d" type="corner_kick" time="2016-03-19T20:50:05Z" updated_time="2016-03-19T20:50:05Z" scratch="false" x="5" y="90" clock="61" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Corner awarded to Legia Warsaw.</description>
+        </fact>
+        <fact id="63a7f721-bb53-4556-8977-04ddc05ee19d" type="offside" time="2016-03-19T20:50:22Z" updated_time="2016-03-19T20:50:22Z" scratch="false" x="7" y="46" clock="62" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" player_id="4fc3c717-b3d1-4734-b761-2bd1833b163b" period="P2">
+          <description>Szymon Marciniak blows against Legia Warsaw's Nemanja Nikolic for offside.</description>
+        </fact>
+        <fact id="16cbd469-6057-4c3a-a226-e37a923dbe7a" type="shot_on_target" time="2016-03-19T20:51:10Z" updated_time="2016-03-19T20:51:10Z" scratch="false" x="16" y="59" clock="63" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" player_id="4fc3c717-b3d1-4734-b761-2bd1833b163b" period="P2">
+          <description>Nemanja Nikolic of Legia Warsaw smashes in a shot on target. The keeper saves, though.</description>
+        </fact>
+        <fact id="cc35e064-d817-4ad4-9e1e-2ce1428c7063" type="keeper_save" time="2016-03-19T20:51:11Z" updated_time="2016-03-19T20:51:11Z" scratch="false" clock="63" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2"/>
+        <fact id="77a640a8-9af1-48c0-8724-563e92388a64" type="corner_kick" time="2016-03-19T20:51:50Z" updated_time="2016-03-19T20:51:50Z" scratch="false" x="5" y="5" clock="63" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Legia Warsaw have been awarded a corner by Szymon Marciniak.</description>
+        </fact>
+        <fact id="5e0ec518-9643-4702-bacc-fd8ae940e895" type="throwin" time="2016-03-19T20:52:00Z" updated_time="2016-03-19T20:52:00Z" scratch="false" x="25" y="97" clock="63" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Can Legia Warsaw get the ball into an attacking position from this throw-in in Lech Poznan's half?</description>
+        </fact>
+        <fact id="fb760d82-3077-4445-ba0e-ed49ba62a862" type="free_kick" time="2016-03-19T20:52:13Z" updated_time="2016-03-19T20:52:13Z" scratch="false" x="61" y="25" clock="64" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Free kick Lech Poznan.</description>
+        </fact>
+        <fact id="07eb6f33-6846-40a4-9870-754ab1226fe8" type="shot_blocked" time="2016-03-19T20:53:02Z" updated_time="2016-03-19T20:53:02Z" scratch="false" x="89" y="37" clock="64" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2"/>
+        <fact id="a07d562b-0aaf-4a04-b4f1-112fc009e91f" type="corner_kick" time="2016-03-19T20:53:15Z" updated_time="2016-03-19T20:53:15Z" scratch="false" x="95" y="5" clock="65" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Corner awarded to Lech Poznan.</description>
+        </fact>
+        <fact id="62ba1a0d-6afa-4c3f-9c36-29d802b4e7a3" type="throwin" time="2016-03-19T20:53:24Z" updated_time="2016-03-19T20:53:24Z" scratch="false" x="77" y="4" clock="65" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>A throw-in for the home team on the opposite half.</description>
+        </fact>
+        <fact id="790322d5-4227-4a74-abae-eb193a5127ea" type="throwin" time="2016-03-19T20:53:49Z" updated_time="2016-03-19T20:53:49Z" scratch="false" x="49" y="2" clock="65" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Szymon Marciniak signals a Legia Warsaw throw-in in Lech Poznan's half.</description>
+        </fact>
+        <fact id="cef7816d-83e6-4ec2-a357-5bab10bc7480" type="throwin" time="2016-03-19T20:54:23Z" updated_time="2016-03-19T20:54:23Z" scratch="false" x="83" y="97" clock="66" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Can Lech Poznan capitalize from this throw-in deep inside Legia Warsaw's half?</description>
+        </fact>
+        <fact id="dd6f8161-8c3e-4a10-9877-4d28451209c6" type="shot_on_target" time="2016-03-19T20:54:36Z" updated_time="2016-03-19T20:54:45Z" scratch="false" x="87" y="46" clock="66" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" player_id="66174312-0695-492b-a645-5a7d9ecd48fe" period="P2">
+          <description>Nicki Bille Nielsen (Lech Poznan) strikes at INEA Stadion but his header is cleared.</description>
+        </fact>
+        <fact id="cb512e62-35f1-4fe8-838c-02fa165d0a73" type="keeper_save" time="2016-03-19T20:54:36Z" updated_time="2016-03-19T20:54:36Z" scratch="false" clock="66" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2"/>
+        <fact id="ef5baf03-a8b9-4d3d-97e6-b4926a173e02" type="corner_kick" time="2016-03-19T20:55:49Z" updated_time="2016-03-19T20:55:49Z" scratch="false" x="95" y="5" clock="67" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Lech Poznan have been awarded a corner by Szymon Marciniak.</description>
+        </fact>
+        <fact id="a07fc16d-1f7d-40be-9912-cb85e30516f7" type="throwin" time="2016-03-19T20:56:11Z" updated_time="2016-03-19T20:56:11Z" scratch="false" x="56" y="96" clock="68" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Throw-in for Lech Poznan in the half of Legia Warsaw.</description>
+        </fact>
+        <fact id="2c9cf90a-8940-48fd-9b06-771e980bb03c" type="throwin" time="2016-03-19T20:56:53Z" updated_time="2016-03-19T20:56:53Z" scratch="false" x="46" y="97" clock="68" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Throw-in for Lech Poznan in their own half.</description>
+        </fact>
+        <fact id="649a0ce8-398a-4c92-8912-3d25efc42b24" type="throwin" time="2016-03-19T20:57:23Z" updated_time="2016-03-19T20:57:23Z" scratch="false" x="45" y="3" clock="69" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Ball safe as Lech Poznan is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="1d193a28-59fd-4234-a48e-ed43ef94b19c" type="throwin" time="2016-03-19T20:58:53Z" updated_time="2016-03-19T20:58:53Z" scratch="false" x="51" y="96" clock="70" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>A throw-in for the home team on the opposite half.</description>
+        </fact>
+        <fact id="3d964968-fd25-4275-8ef4-426c8a367c3a" type="free_kick" time="2016-03-19T20:59:05Z" updated_time="2016-03-19T20:59:05Z" scratch="false" x="57" y="83" clock="71" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>In Poznan a free kick has been awarded the home team.</description>
+        </fact>
+        <fact id="a0d30887-ee71-48bf-b08d-b80469f1005c" type="corner_kick" time="2016-03-19T21:00:24Z" updated_time="2016-03-19T21:00:24Z" scratch="false" x="95" y="90" clock="71" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Corner awarded to Lech Poznan.</description>
+        </fact>
+        <fact id="141af6a7-5d5c-4938-b82c-984a5f3cbd40" type="throwin" time="2016-03-19T21:00:38Z" updated_time="2016-03-19T21:00:38Z" scratch="false" x="60" y="98" clock="72" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Szymon Marciniak signals a Lech Poznan throw-in in Legia Warsaw's half.</description>
+        </fact>
+        <fact id="bee7ae1f-186e-412d-8bae-a9a336639cd0" type="free_kick" time="2016-03-19T21:01:11Z" updated_time="2016-03-19T21:01:11Z" scratch="false" x="42" y="58" clock="73" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Free kick for Lech Poznan in their own half.</description>
+        </fact>
+        <fact id="fd1b6d42-9f21-45d9-9473-50aed95b6999" type="card" time="2016-03-19T21:01:21Z" updated_time="2016-03-19T21:01:21Z" scratch="false" clock="73" card="Y" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" player_id="9a21b5e5-003a-4202-b2b4-ffa440bf8725" period="P2">
+          <description>Mihail Aleksandrov (Legia Warsaw) has been booked and must now be careful not to get a second yellow card.</description>
+        </fact>
+        <fact id="94ff253d-d845-4746-95b9-37d12abc636f" type="shot_blocked" time="2016-03-19T21:01:38Z" updated_time="2016-03-19T21:01:47Z" scratch="false" x="77" y="66" clock="73" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Important block from the Legia Warsaw defence as Maciej Gajos fires in a strike for Lech Poznan.</description>
+        </fact>
+        <fact id="05ac6a7a-3918-455a-9452-f33d9abbccef" type="throwin" time="2016-03-19T21:02:35Z" updated_time="2016-03-19T21:02:35Z" scratch="false" x="43" y="3" clock="74" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Can Legia Warsaw get the ball into an attacking position from this throw-in in Lech Poznan's half?</description>
+        </fact>
+        <fact id="cba4e1b4-7aba-4cf4-8878-ae86ef3af72d" type="substitution" time="2016-03-19T21:02:55Z" updated_time="2016-03-19T21:02:55Z" scratch="false" clock="74" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" player_out_id="66174312-0695-492b-a645-5a7d9ecd48fe" player_in_id="cfc5f1b7-8db4-4620-9a0d-287512c2b399" period="P2">
+          <description>Jan Urban is making the team's second substitution at INEA Stadion with Dawid Kownacki replacing Nicki Bille Nielsen.</description>
+        </fact>
+        <fact id="5105bae5-fe15-4fc3-a667-5581732c74d5" type="corner_kick" time="2016-03-19T21:03:51Z" updated_time="2016-03-19T21:03:51Z" scratch="false" x="5" y="5" clock="75" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Corner awarded to Legia Warsaw.</description>
+        </fact>
+        <fact id="7ef82be6-4ad6-4029-978a-61bb17773190" type="free_kick" time="2016-03-19T21:04:02Z" updated_time="2016-03-19T21:04:02Z" scratch="false" x="16" y="31" clock="75" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Lech Poznan awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="b171d297-6d45-41fd-adeb-fe3e5dba1ce5" type="card" time="2016-03-19T21:04:11Z" updated_time="2016-03-19T21:04:11Z" scratch="false" clock="76" card="Y" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" player_id="4c7afd64-b3c3-4ebe-a10e-be02c7b57d0f" period="P2">
+          <description>Ondrej Duda (Legia Warsaw) gets a yellow card.</description>
+        </fact>
+        <fact id="9b3f0928-2d38-4c13-b676-6125a9ad0768" type="throwin" time="2016-03-19T21:04:43Z" updated_time="2016-03-19T21:04:43Z" scratch="false" x="77" y="98" clock="76" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Lech Poznan to take a throw-in in Legia Warsaw territory.</description>
+        </fact>
+        <fact id="1afd8cdf-d394-4b1e-961f-8cf57c9e1a84" type="free_kick" time="2016-03-19T21:05:16Z" updated_time="2016-03-19T21:05:16Z" scratch="false" x="78" y="45" clock="77" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Free kick for Legia Warsaw in their own half.</description>
+        </fact>
+        <fact id="3e0a2555-cbad-4d6a-a442-52114cac36e5" type="substitution" time="2016-03-19T21:05:45Z" updated_time="2016-03-19T21:05:45Z" scratch="false" clock="77" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" player_out_id="4c7afd64-b3c3-4ebe-a10e-be02c7b57d0f" player_in_id="8cbec53e-0aef-4299-a2f7-ffe274692680" period="P2">
+          <description>The away team have replaced Ondrej Duda with Guilherme. This is the first substitution made today by Stanislav Cherchesov.</description>
+        </fact>
+        <fact id="551b67f5-235c-4692-81fb-a18156d5981c" type="throwin" time="2016-03-19T21:06:05Z" updated_time="2016-03-19T21:06:05Z" scratch="false" x="58" y="96" clock="78" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Throw-in for Lech Poznan in the half of Legia Warsaw.</description>
+        </fact>
+        <fact id="fd506a67-7536-41e2-a72f-b5be28b41b3f" type="goal_kick" time="2016-03-19T21:06:39Z" updated_time="2016-03-19T21:06:39Z" scratch="false" x="95" y="50" clock="78" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Szymon Marciniak awards Legia Warsaw a goal kick.</description>
+        </fact>
+        <fact id="5013923f-c6d1-4635-bd6c-227999e9e965" type="shot_on_target" time="2016-03-19T21:08:10Z" updated_time="2016-03-19T21:08:16Z" scratch="false" x="82" y="53" clock="80" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" player_id="b49eeee9-3141-473e-84a0-dd5c35dea99c" period="P2">
+          <description>Maciej Gajos gets his shot on target but fails to score for Lech Poznan.</description>
+        </fact>
+        <fact id="ac975e7a-20e8-40e8-a450-b7ba80baaa60" type="keeper_save" time="2016-03-19T21:08:10Z" updated_time="2016-03-19T21:08:10Z" scratch="false" clock="80" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2"/>
+        <fact id="cf08b295-746e-4b9b-b1ac-d5a7c304f2c6" type="free_kick" time="2016-03-19T21:08:33Z" updated_time="2016-03-19T21:08:33Z" scratch="false" x="35" y="75" clock="80" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Free kick for Legia Warsaw in the half of Lech Poznan.</description>
+        </fact>
+        <fact id="d490a7cc-6cba-4f41-b6e6-0eecbc716254" type="throwin" time="2016-03-19T21:09:18Z" updated_time="2016-03-19T21:09:18Z" scratch="false" x="37" y="2" clock="81" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Throw-in Lech Poznan.</description>
+        </fact>
+        <fact id="64a1cd3c-1106-4573-aeb5-11c358834468" type="shot_blocked" time="2016-03-19T21:10:44Z" updated_time="2016-03-19T21:10:44Z" scratch="false" x="81" y="54" clock="82" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2"/>
+        <fact id="24e584b3-689f-4200-895c-acb453cfe028" type="corner_kick" time="2016-03-19T21:11:06Z" updated_time="2016-03-19T21:11:06Z" scratch="false" x="95" y="5" clock="82" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Lech Poznan have been awarded a corner by Szymon Marciniak.</description>
+        </fact>
+        <fact id="d92ca8c0-0643-4636-a26c-81fc81d55433" type="shot_off_target" time="2016-03-19T21:11:12Z" updated_time="2016-03-19T21:12:09Z" scratch="false" x="91" y="47" clock="83" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" player_id="edf4cd62-9f77-44cd-a374-80c9fc408c37" period="P2">
+          <description>In Poznan Lech Poznan attack through Paulus Arajuuri. The finish is off target, however.</description>
+        </fact>
+        <fact id="62fcce61-efca-46a9-ab03-5e4071e12703" type="goal_kick" time="2016-03-19T21:11:12Z" updated_time="2016-03-19T21:11:12Z" scratch="false" x="95" y="50" clock="83" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Goal kick for Legia Warsaw at INEA Stadion.</description>
+        </fact>
+        <fact id="d5273152-db49-490f-99ab-0fdaf0ce8c3f" type="substitution" time="2016-03-19T21:11:53Z" updated_time="2016-03-19T21:11:53Z" scratch="false" clock="83" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" player_out_id="4fc3c717-b3d1-4734-b761-2bd1833b163b" player_in_id="6977e119-1d25-4c68-8310-c485505eb64b" period="P2">
+          <description>Stanislav Cherchesov (Legia Warsaw) is making a second substitution, with Kasper Hamalainen replacing Nemanja Nikolic.</description>
+        </fact>
+        <fact id="34f50798-d562-4f86-ba9f-e5f1bd56689e" type="free_kick" time="2016-03-19T21:12:46Z" updated_time="2016-03-19T21:12:46Z" scratch="false" x="41" y="68" clock="84" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Lech Poznan awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="87afbbde-b420-4c87-869d-209fc5491d7e" type="throwin" time="2016-03-19T21:13:20Z" updated_time="2016-03-19T21:13:20Z" scratch="false" x="80" y="97" clock="85" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Throw-in for Legia Warsaw at INEA Stadion.</description>
+        </fact>
+        <fact id="7dcfb1d7-0496-4667-8dc7-8d31b7a5b4c7" type="throwin" time="2016-03-19T21:14:11Z" updated_time="2016-03-19T21:14:11Z" scratch="false" x="80" y="3" clock="86" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Legia Warsaw awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="77234263-3cd2-4bea-9346-a77303cdd69c" type="throwin" time="2016-03-19T21:14:44Z" updated_time="2016-03-19T21:14:44Z" scratch="false" x="36" y="2" clock="86" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Szymon Marciniak signals a Legia Warsaw throw-in in Lech Poznan's half.</description>
+        </fact>
+        <fact id="0656a4f0-eb40-4222-a07e-2785aaa9500a" type="offside" time="2016-03-19T21:15:10Z" updated_time="2016-03-19T21:15:11Z" scratch="false" x="17" y="19" clock="87" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" player_id="9a21b5e5-003a-4202-b2b4-ffa440bf8725" period="P2">
+          <description>In Poznan Legia Warsaw's Mihail Aleksandrov is caught offside.</description>
+        </fact>
+        <fact id="a2c9887c-0bca-41e6-a390-98cfa6e612e0" type="free_kick" time="2016-03-19T21:16:15Z" updated_time="2016-03-19T21:16:15Z" scratch="false" x="64" y="50" clock="88" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Szymon Marciniak signals a free kick to Lech Poznan.</description>
+        </fact>
+        <fact id="12d2df8d-ecda-4fb2-a373-3dbb8a346a55" type="throwin" time="2016-03-19T21:16:37Z" updated_time="2016-03-19T21:16:37Z" scratch="false" x="79" y="97" clock="88" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Throw-in for Lech Poznan in the half of Legia Warsaw.</description>
+        </fact>
+        <fact id="9dac99d4-81f0-4032-92b7-6888e47449c2" type="throwin" time="2016-03-19T21:16:43Z" updated_time="2016-03-19T21:16:43Z" scratch="false" x="84" y="97" clock="88" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Throw-in high up the field for Lech Poznan in Poznan.</description>
+        </fact>
+        <fact id="3bada825-5b78-4083-866c-418f94da44f3" type="free_kick" time="2016-03-19T21:17:14Z" updated_time="2016-03-19T21:17:14Z" scratch="false" x="82" y="72" clock="89" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Szymon Marciniak signals a free kick to Legia Warsaw in their own half.</description>
+        </fact>
+        <fact id="e75c9f69-f89a-4487-a415-8bbd0c4af166" type="throwin" time="2016-03-19T21:17:55Z" updated_time="2016-03-19T21:17:55Z" scratch="false" x="42" y="96" clock="89" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Legia Warsaw to take a throw-in in Lech Poznan territory.</description>
+        </fact>
+        <fact id="58104dd0-0ea4-42fe-88d4-2648d1dafb6e" type="throwin" time="2016-03-19T21:18:20Z" updated_time="2016-03-19T21:18:20Z" scratch="false" x="14" y="96" clock="90" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Throw-in for Lech Poznan in their own half.</description>
+        </fact>
+        <fact id="aa7b4c3a-9758-473a-a879-61984aa8bffe" type="free_kick" time="2016-03-19T21:18:33Z" updated_time="2016-03-19T21:18:33Z" scratch="false" x="40" y="76" clock="90" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Lech Poznan awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="c5c17d41-2bb0-4dae-9f9e-a7d8f6ede0c4" type="free_kick" time="2016-03-19T21:18:54Z" updated_time="2016-03-19T21:18:54Z" scratch="false" x="57" y="48" clock="90" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Szymon Marciniak signals a free kick to Lech Poznan.</description>
+        </fact>
+        <fact id="41a411a1-89f2-4a4f-9b77-5830bbd16978" type="injury_time" time="2016-03-19T21:19:21Z" updated_time="2016-03-19T21:19:21Z" scratch="false" clock="90" injury_time="7" period="">
+          <description>Szymon Marciniak will wait an extra 7 minutes before blowing the whistle to end the 2nd half.</description>
+        </fact>
+        <fact id="352112de-1bbe-4376-a419-2313cc78d66d" type="throwin" time="2016-03-19T21:19:41Z" updated_time="2016-03-19T21:19:41Z" scratch="false" x="32" y="97" clock="90" injury_time="1" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Throw-in Lech Poznan.</description>
+        </fact>
+        <fact id="1a71900a-8237-4850-8e02-f2afbc2a2655" type="substitution" time="2016-03-19T21:19:54Z" updated_time="2016-03-19T21:19:54Z" scratch="false" clock="90" injury_time="1" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" player_out_id="53216444-3638-4ba0-b780-c89ebbd0c47d" player_in_id="5bc9dbc9-8f07-4207-846e-e9b8a4bfbff1" period="P2">
+          <description>Robert Gumny is replacing Tomasz Kedziora for the home team.</description>
+        </fact>
+        <fact id="4ce6fc1b-5ce0-4b14-838e-8ed0b2fef207" type="throwin" time="2016-03-19T21:20:16Z" updated_time="2016-03-19T21:20:16Z" scratch="false" x="19" y="97" clock="90" injury_time="2" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Lech Poznan needs to be cautious. Legia Warsaw have an attacking throw-in.</description>
+        </fact>
+        <fact id="1064579c-2f50-47d6-a3a8-4898510f9515" type="corner_kick" time="2016-03-19T21:20:51Z" updated_time="2016-03-19T21:20:51Z" scratch="false" x="5" y="90" clock="90" injury_time="2" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Corner awarded to Legia Warsaw.</description>
+        </fact>
+        <fact id="5bd6b54f-160d-4d19-86cd-c963da045ba2" type="corner_kick" time="2016-03-19T21:21:13Z" updated_time="2016-03-19T21:21:13Z" scratch="false" x="5" y="90" clock="90" injury_time="3" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Legia Warsaw have been awarded a corner by Szymon Marciniak.</description>
+        </fact>
+        <fact id="a10f1f3b-19d0-4221-aadd-2f7b19620c87" type="free_kick" time="2016-03-19T21:21:21Z" updated_time="2016-03-19T21:21:21Z" scratch="false" x="17" y="70" clock="90" injury_time="3" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Free kick for Lech Poznan in their own half.</description>
+        </fact>
+        <fact id="cd197b6e-beb3-4acc-93b1-72806d23fa1c" type="throwin" time="2016-03-19T21:21:50Z" updated_time="2016-03-19T21:21:50Z" scratch="false" x="40" y="97" clock="90" injury_time="3" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>A throw-in for the away team on the opposite half.</description>
+        </fact>
+        <fact id="e994000c-7cb4-41cf-81c2-5af4e280968a" type="throwin" time="2016-03-19T21:23:39Z" updated_time="2016-03-19T21:23:39Z" scratch="false" x="85" y="3" clock="90" injury_time="5" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Lech Poznan have a dangerous throw-in.</description>
+        </fact>
+        <fact id="cf4ff12d-6394-46b5-8d07-8ea0898bd722" type="shot_off_target" time="2016-03-19T21:24:13Z" updated_time="2016-03-19T21:24:13Z" scratch="false" x="14" y="40" clock="90" injury_time="6" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" player_id="724ddd3c-9681-40a9-a721-cad761539610" period="P2">
+          <description>Legia Warsaw's Aleksandar Prijovic misses with an attempt on goal.</description>
+        </fact>
+        <fact id="1b595321-782b-49dc-9952-352a88f97256" type="goal_kick" time="2016-03-19T21:24:13Z" updated_time="2016-03-19T21:24:13Z" scratch="false" x="5" y="50" clock="90" injury_time="6" team_id="5d397b74-0bc3-44ac-b362-20bd957806b0" period="P2">
+          <description>Goal kick for Lech Poznan at INEA Stadion.</description>
+        </fact>
+        <fact id="96597088-cb98-412b-9afe-66002669818b" type="substitution" time="2016-03-19T21:24:46Z" updated_time="2016-03-19T21:24:46Z" scratch="false" clock="90" injury_time="6" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" player_out_id="9a21b5e5-003a-4202-b2b4-ffa440bf8725" player_in_id="43945717-49a1-427b-9461-4a9725e817db" period="P2">
+          <description>Stanislav Cherchesov (Legia Warsaw) is making a third substitution, with Lukasz Broz replacing Mihail Aleksandrov.</description>
+        </fact>
+        <fact id="2a8f8ee6-d929-4b71-b42c-4aced651542f" type="free_kick" time="2016-03-19T21:25:45Z" updated_time="2016-03-19T21:25:45Z" scratch="false" x="39" y="22" clock="90" injury_time="7" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Free kick for Legia Warsaw in the half of Lech Poznan.</description>
+        </fact>
+        <fact id="ccfebef4-dffa-429b-9603-1fc476cea922" type="free_kick" time="2016-03-19T21:27:00Z" updated_time="2016-03-19T21:27:00Z" scratch="false" x="27" y="79" clock="90" injury_time="8" team_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" period="P2">
+          <description>Free kick Legia Warsaw.</description>
+        </fact>
+        <fact id="ed5aada7-7bf7-4fec-8d95-db7f9c746af4" type="period_over" time="2016-03-19T21:27:28Z" updated_time="2016-03-19T21:27:28Z" scratch="false" home_score="0" away_score="2" period="P2">
+          <description>Szymon Marciniak blows to end the match. The final score is 0-2.</description>
+        </fact>
+        <fact id="0b429d06-a2e3-4f44-9e78-b4fcdd05a63e" type="match_ended" time="2016-03-19T21:27:28Z" updated_time="2016-03-19T21:27:28Z" scratch="false" home_score="0" away_score="2" winner_id="3a199c19-66db-4cf1-936e-1aa61dfb9507" draw="false"/>
+      </facts>
+      <!-- 7470658/3121/3106 -->
+    </match>
+  </matches>
+</summary>

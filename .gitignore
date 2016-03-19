@@ -19,6 +19,7 @@
 # .idea/sqlDataSources.xml
 # .idea/dynamic.xml
 # .idea/uiDesigner.xml
+/data/7hackbot.db
 
 # Gradle:
 # .idea/gradle.xml
