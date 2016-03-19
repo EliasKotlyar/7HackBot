@@ -5,6 +5,8 @@ var SevenHackBot = require('../lib/sevenhackbot');
 var config = require('../config.json');
 var SevenDataBase = require('../lib/database');
 var SevenWebserver = require('../lib/webserver');
+var SportRadar = require('../lib/sportsradar');
+
 
 
 
@@ -24,13 +26,18 @@ var sevenwebserver = new SevenWebserver({
 
 });
 
+// Start Sportradar
+var sportradar =  new SportRadar({
+    db: database
+});
 
 // Start Bot
 
 var sevenhackbot = new SevenHackBot({
     token: token,
     db: database,
-    name: botName
+    name: botName,
+    sportradar:sportradar
 });
 
 sevenhackbot.run();
