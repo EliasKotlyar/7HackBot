@@ -1,36 +1,40 @@
 'use strict';
 
-
-
-var config = require('../config.json');
-
-
-
+var path = require('path');
 var SevenHackBot = require('../lib/sevenhackbot');
+var config = require('../config.json');
+var SevenDataBase = require('../lib/database');
+var SevenWebserver = require('../lib/webserver');
+
+
+
+
 
 var token = config.APIKEY;
-var path = require('path');
 var dbPath = path.resolve(process.cwd(), "data",config.DBPATH);
-var name = config.NAME;
+var botName = config.NAME;
 
-var norrisbot = new SevenHackBot({
+// Start DB
+var database = new SevenDataBase({
+    path: dbPath
+});
+
+// Start Webserver
+var sevenwebserver = new SevenWebserver({
+
+});
+
+
+// Start Bot
+
+var sevenhackbot = new SevenHackBot({
     token: token,
-    dbPath: dbPath,
-    name: name
+    db: database,
+    name: botName
 });
 
-norrisbot.run();
+sevenhackbot.run();
 
-var fs = require("fs");
-var host = "127.0.0.1";
-var port = 1337;
-var express = require("express");
 
-var app = express();
-app.use(express.static(__dirname + "/public")); //use static files in ROOT/public folder
 
-app.get("/", function(request, response){ //root dir
-    response.send("Hello!!");l
-});
 
-app.listen(port, host);

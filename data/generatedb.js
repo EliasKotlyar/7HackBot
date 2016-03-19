@@ -8,7 +8,7 @@
  *
  *   node databaseGenerator.js [destFile]
  *
- *   destFile is optional and it will default to "norrisbot.db"
+ *   destFile is optional and it will default to "sevenhackbot.db"
  *
  * @author Luciano Mammino <lucianomammino@gmail.com>
  */
