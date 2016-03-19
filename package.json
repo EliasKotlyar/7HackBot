@@ -1,0 +1,27 @@
+{
+  "name": "7hackbot",
+  "version": "1.0.0",
+  "description": "Our Project for the 7Hack Hackathon",
+  "main": "lib/7hackbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliasKotlyar/7HackBot.git"
+  },
+  "keywords": [
+    "7Hack",
+    "Bot"
+  ],
+  "author": "Elias Kotlyar",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/EliasKotlyar/7HackBot/issues"
+  },
+  "homepage": "https://github.com/EliasKotlyar/7HackBot#readme",
+  "dependencies": {
+    "slackbots": "^0.5.1",
+    "sqlite3": "^3.1.1"
+  }
+}
