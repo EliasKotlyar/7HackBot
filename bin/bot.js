@@ -9,7 +9,8 @@ var SportRadar = require('../lib/sportsradar');
 var Whatzapp = require('../lib/whatzapp');
 var GenericBot = require('../lib/genericbot');
 
-
+var Wetter = require('../lib/wetter');
+var wetter = new Wetter({key:"240e4458fc4c6ac85c290481646b21ef"});
 
 // Start DB
 /*
@@ -24,7 +25,8 @@ var sportradar =  new SportRadar({
 
 
 var genericBot = new GenericBot({
-    'sportradar' : sportradar
+    'sportradar' : sportradar,
+    'wetter' : wetter
 });
 
 var whatzapp = new Whatzapp({

@@ -23,6 +23,7 @@
   "dependencies": {
     "async": "^1.5.2",
     "body-parser": "^1.15.0",
+    "crypto": "0.0.3",
     "encoding": "^0.1.12",
     "express": "^4.13.4",
     "fs": "0.0.2",
