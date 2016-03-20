@@ -17,6 +17,7 @@
 # .idea/dataSources.ids
 # .idea/dataSources.xml
 # .idea/sqlDataSources.xml
+/test/whatzapp.js
 # .idea/dynamic.xml
 # .idea/uiDesigner.xml
 /data/7hackbot.db
@@ -25,6 +26,7 @@
 # .idea/gradle.xml
 # .idea/libraries
 
+/test/erricson
 # Mongo Explorer plugin:
 # .idea/mongoSettings.xml
 

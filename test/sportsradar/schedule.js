@@ -2,7 +2,7 @@
 var fs = require('fs');
 var SportsRadar = require('../../lib/sportsradar') ;
 
-//SportsRadar.getShedule();
+//Erricson.querySearch();
 
 fs.readFile('schedule.txt', 'utf8',function (err,data) {
     if (err) {
