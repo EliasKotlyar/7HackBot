@@ -27,6 +27,7 @@
 # .idea/libraries
 
 /test/erricson
+/test/sportsradar/schedule_live.js
 # Mongo Explorer plugin:
 # .idea/mongoSettings.xml
 

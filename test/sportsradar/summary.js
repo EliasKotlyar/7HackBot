@@ -2,7 +2,7 @@
 var fs = require('fs');
 var SportsRadar = require('../../lib/sportsradar') ;
 
-//Erricson.querySearch();
+//GenericBot.querySearch();
 
 fs.readFile('summary1.txt', 'utf8',function (err,data) {
     if (err) {

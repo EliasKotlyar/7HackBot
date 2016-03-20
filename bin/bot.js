@@ -8,10 +8,9 @@ var SevenWebserver = require('../lib/webserver');
 var SportRadar = require('../lib/sportsradar');
 var Whatzapp = require('../lib/whatzapp');
 
+var GenericBot = require('../lib/genericbot');
+var genericBot = new GenericBot({});
 
-var token = config.APIKEY;
-//var dbPath = path.resolve(process.cwd(), "data",config.DBPATH);
-var botName = config.NAME;
 
 // Start DB
 /*
@@ -19,7 +18,10 @@ var botName = config.NAME;
  path: dbPath
  });
  */
-var whatzapp = new Whatzapp({'host': config.WHATZAPP_HOST});
+var whatzapp = new Whatzapp({
+    'host': config.WHATZAPP_HOST,
+    'genericBot' : genericBot
+});
 whatzapp.run();
 
 // Start Webserver
@@ -37,6 +39,9 @@ sevenwebserver.startUp();
 
 // Start Bot
 /*
+ var token = config.APIKEY;
+ //var dbPath = path.resolve(process.cwd(), "data",config.DBPATH);
+ var botName = config.NAME;
  var sportradar =  new SportRadar({
  });
  var sevenhackbot = new SevenHackBot({
