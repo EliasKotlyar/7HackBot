@@ -1,5 +1,10 @@
 {
-  "APIKEY" : "APIKEY",
-  "DBPATH" : "7hackbot.db",
-  "NAME" : "7HackBot"
+  "WHATZAPP_HOST":"",
+  "ERRICSON_KEY":"",
+  "SEVENHACK_KEY":"",
+  "SPORTRADAR_KEY" : "",
+  "WEBSERVER_HOST":"",
+  "WEBSERVER_PORT":""
 }
+
+
