@@ -3,3 +3,20 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+.text-vertical-center h1 {
+    font-size: 6em;
+}
+.text-vertical-center {
+    color: #4a4a4a;
+}
+h3 {
+    font-size: 30px;
+}
+
+#submitButton{
+    margin-top:10px;
+    width: 300px;
+    color:#ffffff;
+    background-color: #4a4a4a;
+}
